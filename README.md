@@ -69,14 +69,11 @@ So far I am happy with what I've done, learned, and found. It's time to change p
 In the, not too near future I'll come back to conclude with the following two chapters.
 
 ## Next
-7. [Other sources]() 
+7. [Other sources](..) 
 > There are other sources of data that may offer a different perspective
-> The problem is that we have to go back to the boring chapter 1.
->
-> Can I train a network to replace chapter 1. and 2. and partially 3. ?
-> May be yes..
->
-8. [Natural Language]()
+> The problem is that we have to go back to the boring scraping..
+
+8. [Natural Language](..)
 > Is it possible to extract more from the description, sort it, and the analyze it? 
 > 
 
