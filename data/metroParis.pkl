@@ -1,0 +1,2247 @@
+(lp1
+(VAbbesses
+I18
+VAbbesses
+V18
+tp2
+a(VAlesia
+I14
+VAlesia 
+V14
+tp3
+a(VAlexandre Dumas
+p4
+I11
+VAlexandre Dumas
+p5
+V11 & 20
+p6
+tp7
+a(g4
+I20
+g5
+g6
+tp8
+a(VAlma
+I16
+VAlma \u2013 Marceau
+p9
+V16
+p10
+tp11
+a(VMarceau
+I16
+g9
+g10
+tp12
+a(VAnvers
+p13
+I9
+VAnvers
+p14
+V9 & 18
+p15
+tp16
+a(g13
+I18
+g14
+g15
+tp17
+a(VArgentine
+p18
+I16
+VArgentine
+p19
+V16 & 17
+p20
+tp21
+a(g18
+I17
+g19
+g20
+tp22
+a(VArts et Métiers
+I3
+VArts et Métiers
+V3
+tp23
+a(VAssemblée Nationale
+I7
+VAssemblée Nationale
+V7
+tp24
+a(VAubervilliers
+VAubervilliers
+p25
+VAubervilliers \u2013 Pantin \u2013 Quatre Chemins
+p26
+VAubervilliers
+p27
+tp28
+a(VPantin
+g25
+g26
+g27
+tp29
+a(VQuatre Chemins
+g25
+g26
+g27
+tp30
+a(VAvenue Émile Zola
+I15
+VAvenue Émile Zola
+V15
+tp31
+a(VAvron
+p32
+I11
+VAvron
+p33
+V11 & 20
+p34
+tp35
+a(g32
+I20
+g33
+g34
+tp36
+a(VBalard
+I15
+VBalard
+V15
+tp37
+a(VBarbès
+p38
+I9
+VBarbès \u2013 Rochechouart
+p39
+V9, 10, 18
+p40
+tp41
+a(g38
+I10
+g39
+g40
+tp42
+a(g38
+I18
+g39
+g40
+tp43
+a(VRochechouart
+p44
+I9
+g39
+g40
+tp45
+a(g44
+I10
+g39
+g40
+tp46
+a(g44
+I18
+g39
+g40
+tp47
+a(VBasilique de Saint-Denis
+VSaint-Denis
+VBasilique de Saint-Denis
+VSaint-Denis
+tp48
+a(VBastille
+p49
+I4
+VBastille
+p50
+V4, 11, 12
+p51
+tp52
+a(g49
+I11
+g50
+g51
+tp53
+a(g49
+I12
+g50
+g51
+tp54
+a(VBel-Air
+I12
+VBel-Air
+V12
+tp55
+a(VBelleville
+p56
+I10
+VBelleville
+p57
+V10, 11, 19, 20
+p58
+tp59
+a(g56
+I11
+g57
+g58
+tp60
+a(g56
+I19
+g57
+g58
+tp61
+a(g56
+I20
+g57
+g58
+tp62
+a(VBibliothèque François Mitterrand
+I13
+VBibliothèque François Mitterrand
+V13
+tp63
+a(VBillancourt
+VBoulogne-Billancourt
+VBillancourt
+VBoulogne-Billancourt
+tp64
+a(VBir-Hakeim
+I15
+VBir-Hakeim
+V15
+tp65
+a(VBlanche
+p66
+I9
+VBlanche
+p67
+V9, 18
+p68
+tp69
+a(g66
+I18
+g67
+g68
+tp70
+a(VBobigny
+VBobigny
+p71
+VBobigny \u2013 Pablo Picasso
+p72
+VBobigny
+p73
+tp74
+a(VPablo Picasso
+g71
+g72
+g73
+tp75
+a(VBoissière
+I16
+VBoissière
+V16
+tp76
+a(VBolivar
+I19
+VBolivar
+V19
+tp77
+a(VBonne Nouvelle
+p78
+I2
+VBonne Nouvelle
+p79
+V2, 9, 10
+p80
+tp81
+a(g78
+I9
+g79
+g80
+tp82
+a(g78
+I10
+g79
+g80
+tp83
+a(VBotzaris
+I19
+VBotzaris
+V19
+tp84
+a(VBoucicaut
+I15
+VBoucicaut
+V15
+tp85
+a(VBourse
+I2
+VBourse
+V2
+tp86
+a(VBréguet
+I11
+VBréguet \u2013 Sabin
+p87
+V11 
+p88
+tp89
+a(VSabin
+I11
+g87
+g88
+tp90
+a(VBrochant
+I17
+VBrochant
+V17
+tp91
+a(VButtes Chaumont
+I19
+VButtes Chaumont
+V19
+tp92
+a(VBuzenval
+I20
+VBuzenval
+V20
+tp93
+a(VCadet
+I9
+VCadet
+V9
+tp94
+a(VCambronne
+I15
+VCambronne
+V15
+tp95
+a(VCampo Formio
+I13
+VCampo Formio
+V13
+tp96
+a(VCardinal Lemoine
+I5
+VCardinal Lemoine
+V5
+tp97
+a(VCarrefour Pleyel
+VSaint-Denis
+VCarrefour Pleyel
+VSaint-Denis
+tp98
+a(VCensier
+I5
+VCensier \u2013 Daubenton
+p99
+V5
+tp100
+a(VDaubenton
+I5
+g99
+V5
+tp101
+a(VChamps-Élysées
+I8
+VChamps-Élysées \u2013 Clemenceau
+p102
+V8
+tp103
+a(VClemenceau
+I8
+g102
+V8
+tp104
+a(VChardon Lagache
+I16
+VChardon Lagache
+V16
+tp105
+a(VCharenton
+VCharenton-le-Pont
+p106
+VCharenton \u2013 Écoles
+p107
+VCharenton-le-Pont
+p108
+tp109
+a(VÉcoles
+g106
+g107
+g108
+tp110
+a(VCharles de Gaulle
+p111
+I8
+VCharles de Gaulle \u2013 Étoile
+p112
+V8, 16, 17
+p113
+tp114
+a(g111
+I16
+g112
+g113
+tp115
+a(g111
+I17
+g112
+g113
+tp116
+a(VÉtoile
+p117
+I8
+g112
+g113
+tp118
+a(g117
+I16
+g112
+g113
+tp119
+a(g117
+I17
+g112
+g113
+tp120
+a(VCharles Michels
+I15
+VCharles Michels
+V15
+tp121
+a(VCharonne
+I11
+VCharonne
+V11 
+tp122
+a(VChâteau d'Eau
+I10
+VChâteau d'Eau
+V10
+tp123
+a(VChâteau-Landon
+I19
+VChâteau-Landon
+V19
+tp124
+a(VChâteau Rouge
+I18
+VChâteau Rouge
+V18
+tp125
+a(VChâtelet
+p126
+I1
+VChâtelet
+p127
+V1 & 4
+p128
+tp129
+a(g126
+I4
+g127
+g128
+tp130
+a(VChâtillon
+p131
+VChâtillon
+p132
+VChâtillon \u2013 Montrouge
+p133
+VChâtillon,\u000aMontrouge
+p134
+tp135
+a(g131
+VMontrouge
+p136
+g133
+g134
+tp137
+a(VMontrouge
+p138
+g132
+g133
+g134
+tp139
+a(g138
+g136
+g133
+g134
+tp140
+a(VChaussée d'Antin
+I9
+VChaussée d'Antin \u2013 La Fayette
+p141
+V9
+tp142
+a(VLa Fayette
+I9
+g141
+V9
+tp143
+a(VChemin Vert
+p144
+I9
+VChemin Vert
+p145
+V9 & 11
+p146
+tp147
+a(g144
+I11
+g145
+g146
+tp148
+a(VChevaleret
+I13
+VChevaleret
+V13
+tp149
+a(VCité
+I4
+VCité
+V4
+tp150
+a(VCluny
+I5
+VCluny \u2013 La Sorbonne
+p151
+V5
+tp152
+a(VLa Sorbonne
+I5
+g151
+V5
+tp153
+a(VColonel Fabien
+p154
+I10
+VColonel Fabien
+p155
+V10 & 19
+p156
+tp157
+a(g154
+I19
+g155
+g156
+tp158
+a(VCommerce
+I15
+VCommerce
+V15
+tp159
+a(VConcorde
+p160
+I1
+VConcorde
+p161
+V1 & 8
+p162
+tp163
+a(g160
+I8
+g161
+g162
+tp164
+a(VConvention
+I15
+VConvention
+V15
+tp165
+a(VCorentin Cariou
+I19
+VCorentin Cariou
+V19
+tp166
+a(VCorvisart
+I13
+VCorvisart
+V13
+tp167
+a(VCour Saint-Émilion
+I12
+VCour Saint-Émilion
+V12
+tp168
+a(VCourcelles
+p169
+I8
+VCourcelles
+p170
+V8 & 17
+p171
+tp172
+a(g169
+I17
+g170
+g171
+tp173
+a(VCouronnes
+I11
+VCouronnes
+V11 
+tp174
+a(VCréteil
+VCréteil
+p175
+VCréteil \u2013 L'Échat
+p176
+VCréteil
+p177
+tp178
+a(VL'Échat
+g175
+g176
+g177
+tp179
+a(VCréteil
+VCréteil
+p180
+VCréteil \u2013 Préfecture
+p181
+VCréteil
+p182
+tp183
+a(VPréfecture
+g180
+g181
+g182
+tp184
+a(VCréteil
+VCréteil
+p185
+VCréteil \u2013 Université
+p186
+VCréteil
+p187
+tp188
+a(VUniversité
+g185
+g186
+g187
+tp189
+a(VCrimée
+I19
+VCrimée
+V19
+tp190
+a(VCroix de Chavaux
+VMontreuil
+VCroix de Chavaux
+VMontreuil
+tp191
+a(VDanube
+I19
+VDanube
+V19
+tp192
+a(VDaumesnil
+I12
+VDaumesnil
+V12
+tp193
+a(VDenfert-Rochereau
+I14
+VDenfert-Rochereau
+V14
+tp194
+a(VDugommier
+I12
+VDugommier
+V12
+tp195
+a(VDupleix
+I15
+VDupleix
+V15
+tp196
+a(VDuroc
+p197
+I6
+VDuroc
+p198
+V6, 7, 15
+p199
+tp200
+a(g197
+I7
+g198
+g199
+tp201
+a(g197
+I15
+g198
+g199
+tp202
+a(VEcole Militaire
+I7
+VEcole Militaire 
+V7
+tp203
+a(VEcole Vétérinaire de Maisons-Alfort
+VMaisons-Alfort
+VEcole Vétérinaire de Maisons-Alfort 
+VMaisons-Alfort
+tp204
+a(VEdgar Quinet
+I14
+VEdgar Quinet
+V14
+tp205
+a(VEglise d'Auteuil
+I16
+VEglise d'Auteuil 
+V16
+tp206
+a(VEglise de Pantin
+VPantin
+VEglise de Pantin 
+VPantin
+tp207
+a(VEtienne Marcel
+p208
+I1
+VEtienne Marcel 
+p209
+V1 & 2
+p210
+tp211
+a(g208
+I2
+g209
+g210
+tp212
+a(VEurope
+I8
+VEurope
+V8
+tp213
+a(VExelmans
+I16
+VExelmans
+V16
+tp214
+a(VFaidherbe
+I11
+VFaidherbe \u2013 Chaligny
+p215
+V11 
+p216
+tp217
+a(VChaligny
+I11
+g215
+g216
+tp218
+a(VFalguière
+I15
+VFalguière
+V15
+tp219
+a(VFélix Faure
+I15
+VFélix Faure
+V15
+tp220
+a(VFilles du Calvaire
+p221
+I3
+VFilles du Calvaire
+p222
+V3 & 11
+p223
+tp224
+a(g221
+I11
+g222
+g223
+tp225
+a(VFranklin D. Roosevelt
+I8
+VFranklin D. Roosevelt
+V8
+tp226
+a(VGaîté
+I14
+VGaîté
+V14
+tp227
+a(VGallieni
+VBagnolet
+VGallieni
+VBagnolet
+tp228
+a(VGambetta
+I20
+VGambetta
+V20
+tp229
+a(VGare d'Austerlitz
+p230
+I5
+VGare d'Austerlitz
+p231
+V5 & 13
+p232
+tp233
+a(g230
+I13
+g231
+g232
+tp234
+a(VGare de l'Est
+I10
+VGare de l'Est
+V10
+tp235
+a(VGare de Lyon
+I12
+VGare de Lyon
+V12
+tp236
+a(VGare du Nord
+I10
+VGare du Nord
+V10
+tp237
+a(VGeorge V
+I8
+VGeorge V
+V8
+tp238
+a(VGlacière
+I13
+VGlacière
+V13
+tp239
+a(VGoncourt
+p240
+I10
+VGoncourt
+p241
+V10 & 11
+p242
+tp243
+a(g240
+I11
+g241
+g242
+tp244
+a(VGrands Boulevards
+p245
+I2
+VGrands Boulevards
+p246
+V2 & 9
+p247
+tp248
+a(g245
+I9
+g246
+g247
+tp249
+a(VGuy Môquet
+p250
+I17
+VGuy Môquet
+p251
+V17 & 18
+p252
+tp253
+a(g250
+I18
+g251
+g252
+tp254
+a(VHavre
+I9
+VHavre \u2013 Caumartin
+p255
+V9
+tp256
+a(VCaumartin
+I9
+g255
+V9
+tp257
+a(VHôtel de Ville
+I4
+VHôtel de Ville
+V4
+tp258
+a(VInvalides
+I7
+VInvalides
+V7
+tp259
+a(VJacques Bonsergent
+I10
+VJacques Bonsergent
+V10
+tp260
+a(VJasmin
+I16
+VJasmin
+V16
+tp261
+a(VJaurès
+p262
+I10
+VJaurès
+p263
+V10, 19
+p264
+tp265
+a(g262
+I19
+g263
+g264
+tp266
+a(VJavel
+I15
+VJavel \u2013 André Citroën
+p267
+V15
+p268
+tp269
+a(VAndré Citroën
+I15
+g267
+g268
+tp270
+a(VJourdain
+p271
+I19
+VJourdain
+p272
+V19, 20
+p273
+tp274
+a(g271
+I20
+g272
+g273
+tp275
+a(VJules Joffrin
+I18
+VJules Joffrin
+V18
+tp276
+a(VJussieu
+I5
+VJussieu
+V5
+tp277
+a(VKléber
+I16
+VKléber
+V16
+tp278
+a(VLa Chapelle
+p279
+I10
+VLa Chapelle
+p280
+V10 & 18
+p281
+tp282
+a(g279
+I18
+g280
+g281
+tp283
+a(VLa Fourche
+p284
+I17
+VLa Fourche
+p285
+V17 & 18
+p286
+tp287
+a(g284
+I18
+g285
+g286
+tp288
+a(VLa Motte-Picquet
+I15
+VLa Motte-Picquet \u2013 Grenelle
+p289
+V15
+p290
+tp291
+a(VGrenelle
+I15
+g289
+g290
+tp292
+a(VLa Muette
+I16
+VLa Muette
+V16
+tp293
+a(VLa Tour-Maubourg
+I7
+VLa Tour-Maubourg
+V7
+tp294
+a(VLamarck
+I18
+VLamarck \u2013 Caulaincourt
+p295
+V18
+p296
+tp297
+a(VCaulaincourt
+I18
+g295
+g296
+tp298
+a(VLaumière
+I19
+VLaumière
+V19
+tp299
+a(VLe Peletier
+I9
+VLe Peletier
+V9
+tp300
+a(VLedru-Rollin
+I11
+VLedru-Rollin
+V11 
+tp301
+a(VLes Gobelins
+p302
+I5
+VLes Gobelins
+p303
+V5 & 13
+p304
+tp305
+a(g302
+I13
+g303
+g304
+tp306
+a(VLes Halles
+I1
+VLes Halles
+V1
+tp307
+a(VLiberté
+VCharenton-le-Pont
+VLiberté
+VCharenton-le-Pont
+tp308
+a(VLiège
+p309
+I8
+VLiège
+p310
+V8 & 9
+p311
+tp312
+a(g309
+I9
+g310
+g311
+tp313
+a(VLouis Blanc
+I10
+VLouis Blanc
+V10
+tp314
+a(VLourmel
+I15
+VLourmel
+V15
+tp315
+a(VLouvre
+I1
+VLouvre \u2013 Rivoli
+p316
+V1
+tp317
+a(VRivoli
+I1
+g316
+V1
+tp318
+a(VMabillon
+I6
+VMabillon
+V6
+tp319
+a(VMadeleine
+I8
+VMadeleine
+V8
+tp320
+a(VMairie d'Ivry
+VIvry-sur-Seine
+VMairie d'Ivry
+VIvry-sur-Seine
+tp321
+a(VMairie de Montreuil
+VMontreuil
+VMairie de Montreuil
+VMontreuil
+tp322
+a(VMairie de Montrouge
+VMontrouge
+VMairie de Montrouge
+VMontrouge
+tp323
+a(VMairie de Saint-Ouen
+p324
+VSaint-Ouen
+VMairie de Saint-Ouen
+p325
+VSaint-Ouen, Seine-Saint-Denis
+p326
+tp327
+a(g324
+VSeine-Saint-Denis
+g325
+g326
+tp328
+a(VMairie des Lilas
+VLes Lilas
+VMairie des Lilas
+VLes Lilas
+tp329
+a(VMaison Blanche
+I13
+VMaison Blanche
+V13
+tp330
+a(VMaisons-Alfort
+VMaisons-Alfort
+p331
+VMaisons-Alfort \u2013 Les Juilliottes
+p332
+VMaisons-Alfort
+p333
+tp334
+a(VLes Juilliottes
+g331
+g332
+g333
+tp335
+a(VMaisons-Alfort
+VMaisons-Alfort
+p336
+VMaisons-Alfort \u2013 Stade
+p337
+VMaisons-Alfort
+p338
+tp339
+a(VStade
+g336
+g337
+g338
+tp340
+a(VMalakoff
+VMalakoff
+p341
+VMalakoff \u2013 Plateau de Vanves
+p342
+VMalakoff
+p343
+tp344
+a(VPlateau de Vanves
+g341
+g342
+g343
+tp345
+a(VMalakoff
+VMalakoff
+p346
+VMalakoff \u2013 Rue Étienne Dolet
+p347
+VMalakoff
+p348
+tp349
+a(VRue Étienne Dolet
+g346
+g347
+g348
+tp350
+a(VMalesherbes
+I17
+VMalesherbes
+V17
+tp351
+a(VMaraîchers
+I20
+VMaraîchers
+V20
+tp352
+a(VMarcadet
+I18
+VMarcadet \u2013 Poissonniers
+p353
+V18
+p354
+tp355
+a(VPoissonniers
+I18
+g353
+g354
+tp356
+a(VMarcel Sembat
+VBoulogne-Billancourt
+VMarcel Sembat
+VBoulogne-Billancourt
+tp357
+a(VMarx Dormoy
+I18
+VMarx Dormoy
+V18
+tp358
+a(VMaubert-Mutualité
+I5
+VMaubert-Mutualité
+V5
+tp359
+a(VMénilmontant
+I11
+VMénilmontant
+V11 
+tp360
+a(VMichel Bizot
+I12
+VMichel Bizot
+V12
+tp361
+a(VMichel-Ange
+I16
+VMichel-Ange \u2013 Auteuil
+p362
+V16
+p363
+tp364
+a(VAuteuil
+I16
+g362
+g363
+tp365
+a(VMichel-Ange
+I16
+VMichel-Ange \u2013 Molitor
+p366
+V16
+p367
+tp368
+a(VMolitor
+I16
+g366
+g367
+tp369
+a(VMirabeau
+I16
+VMirabeau
+V16
+tp370
+a(VMiromesnil
+I8
+VMiromesnil
+V8
+tp371
+a(VMonceau
+p372
+I8
+VMonceau
+p373
+V8 & 17
+p374
+tp375
+a(g372
+I17
+g373
+g374
+tp376
+a(VMontgallet
+I12
+VMontgallet
+V12
+tp377
+a(VMontparnasse
+p378
+I6
+VMontparnasse \u2013 Bienvenüe
+p379
+V6, 14, 15
+p380
+tp381
+a(g378
+I14
+g379
+g380
+tp382
+a(g378
+I15
+g379
+g380
+tp383
+a(VBienvenüe
+p384
+I6
+g379
+g380
+tp385
+a(g384
+I14
+g379
+g380
+tp386
+a(g384
+I15
+g379
+g380
+tp387
+a(VMouton-Duvernet
+I14
+VMouton-Duvernet
+V14
+tp388
+a(VNation
+I11
+VNation
+V11 
+tp389
+a(VNationale
+I13
+VNationale
+V13
+tp390
+a(VNotre-Dame-de-Lorette
+I9
+VNotre-Dame-de-Lorette
+V9
+tp391
+a(VNotre-Dame-des-Champs
+I6
+VNotre-Dame-des-Champs
+V6
+tp392
+a(VOberkampf
+I11
+VOberkampf
+V11 
+tp393
+a(VOdéon
+I6
+VOdéon
+V6
+tp394
+a(VOlympiades
+I13
+VOlympiades
+V13
+tp395
+a(VOpéra
+p396
+I2
+VOpéra
+p397
+V2 & 9
+p398
+tp399
+a(g396
+I9
+g397
+g398
+tp400
+a(VOurcq
+I19
+VOurcq
+V19
+tp401
+a(VPalais Royal
+I1
+VPalais Royal \u2013 Musée du Louvre
+p402
+V1
+tp403
+a(VMusée du Louvre
+I1
+g402
+V1
+tp404
+a(VParmentier
+I11
+VParmentier
+V11 
+tp405
+a(VPassy
+I16
+VPassy
+V16 
+tp406
+a(VPasteur
+I15
+VPasteur
+V15
+tp407
+a(VPelleport
+I20
+VPelleport
+V20
+tp408
+a(VPère Lachaise
+p409
+I11
+VPère Lachaise
+p410
+V11 & 20
+p411
+tp412
+a(g409
+I20
+g410
+g411
+tp413
+a(VPereire
+I17
+VPereire
+V17
+tp414
+a(VPernety
+I14
+VPernety
+V14
+tp415
+a(VPhilippe Auguste
+p416
+I11
+VPhilippe Auguste
+p417
+V11 & 20
+p418
+tp419
+a(g416
+I20
+g417
+g418
+tp420
+a(VPicpus
+I12
+VPicpus
+V12
+tp421
+a(VPierre et Marie Curie
+VIvry-sur-Seine
+VPierre et Marie Curie
+VIvry-sur-Seine
+tp422
+a(VPigalle
+p423
+I9
+VPigalle
+p424
+V9 & 18
+p425
+tp426
+a(g423
+I18
+g424
+g425
+tp427
+a(VPlace d'Italie
+I13
+VPlace d'Italie
+V13
+tp428
+a(VPlace de Clichy
+p429
+I8
+VPlace de Clichy
+p430
+V8, 9, 17, 18
+p431
+tp432
+a(g429
+I9
+g430
+g431
+tp433
+a(g429
+I17
+g430
+g431
+tp434
+a(g429
+I18
+g430
+g431
+tp435
+a(VPlace des Fêtes
+I19
+VPlace des Fêtes
+V19
+tp436
+a(VPlace Monge
+I5
+VPlace Monge
+V5
+tp437
+a(VPlaisance
+I14
+VPlaisance
+V14
+tp438
+a(VPointe du Lac
+VCréteil
+VPointe du Lac
+VCréteil
+tp439
+a(VPoissonnière
+p440
+I9
+VPoissonnière
+p441
+V9 & 10
+p442
+tp443
+a(g440
+I10
+g441
+g442
+tp444
+a(VPont de Sèvres
+VBoulogne-Billancourt
+VPont de Sèvres
+VBoulogne-Billancourt
+tp445
+a(VPont Marie
+I4
+VPont Marie
+V4
+tp446
+a(VPont Neuf
+I1
+VPont Neuf
+V1
+tp447
+a(VPorte d Auteuil
+I16
+VPorte d Auteuil 
+V16
+tp448
+a(VPorte d Italie
+I13
+VPorte d Italie 
+V13
+tp449
+a(VPorte d Ivry
+I13
+VPorte d Ivry 
+V13
+tp450
+a(VPorte d Orleans
+I14
+VPorte d Orleans 
+V14
+tp451
+a(VPorte Dauphine
+I16
+VPorte Dauphine
+V16
+tp452
+a(VPorte de Bagnolet
+I20
+VPorte de Bagnolet
+V20
+tp453
+a(VPorte de Champerret
+I17
+VPorte de Champerret
+V17
+tp454
+a(VPorte de Charenton
+I12
+VPorte de Charenton
+V12
+tp455
+a(VPorte de Choisy
+I13
+VPorte de Choisy
+V13
+tp456
+a(VPorte de Clichy
+I17
+VPorte de Clichy
+V17
+tp457
+a(VPorte de Clignancourt
+I18
+VPorte de Clignancourt
+V18
+tp458
+a(VPorte de la Chapelle
+I18
+VPorte de la Chapelle
+V18
+tp459
+a(VPorte de la Villette
+I19
+VPorte de la Villette
+V19
+tp460
+a(VPorte de Montreuil
+I20
+VPorte de Montreuil
+V20
+tp461
+a(VPorte de Pantin
+I19
+VPorte de Pantin
+V19
+tp462
+a(VPorte de Saint-Cloud
+I16
+VPorte de Saint-Cloud
+V16
+tp463
+a(VPorte de Saint-Ouen
+p464
+I17
+VPorte de Saint-Ouen
+p465
+V17 & 18
+p466
+tp467
+a(g464
+I18
+g465
+g466
+tp468
+a(VPorte de Vanves
+I14
+VPorte de Vanves
+V14
+tp469
+a(VPorte de Versailles
+I15
+VPorte de Versailles
+V15
+tp470
+a(VPorte de Vincennes
+p471
+I12
+VPorte de Vincennes
+p472
+V12 & 20
+p473
+tp474
+a(g471
+I20
+g472
+g473
+tp475
+a(VPorte des Lilas
+p476
+I19
+VPorte des Lilas
+p477
+V19 & 20
+p478
+tp479
+a(g476
+I20
+g477
+g478
+tp480
+a(VPorte Dorée
+I12
+VPorte Dorée
+V12
+tp481
+a(VPorte Maillot
+p482
+I16
+VPorte Maillot
+p483
+V16 & 17
+p484
+tp485
+a(g482
+I17
+g483
+g484
+tp486
+a(VPré Saint-Gervais
+I19
+VPré Saint-Gervais
+V19
+tp487
+a(VPyramides
+I1
+VPyramides
+V1
+tp488
+a(VPyrénées
+p489
+I19
+VPyrénées
+p490
+V19 & 20
+p491
+tp492
+a(g489
+I20
+g490
+g491
+tp493
+a(VQuai de la Gare
+I13
+VQuai de la Gare
+V13
+tp494
+a(VQuai de la Rapée
+I12
+VQuai de la Rapée
+V12
+tp495
+a(VQuatre-Septembre
+I2
+VQuatre-Septembre
+V2
+tp496
+a(VRambuteau
+p497
+I3
+VRambuteau
+p498
+V3 & 4
+p499
+tp500
+a(g497
+I4
+g498
+g499
+tp501
+a(VRanelagh
+I16
+VRanelagh
+V16
+tp502
+a(VRaspail
+I14
+VRaspail
+V14
+tp503
+a(VReaumur
+p504
+I2
+VReaumur 
+p505
+V2 & 3
+p506
+tp507
+a(g504
+I3
+g505
+g506
+tp508
+a(VRennes
+I6
+VRennes
+V6
+tp509
+a(VRépublique
+p510
+I3
+VRépublique
+p511
+V3, 10, 11
+p512
+tp513
+a(g510
+I10
+g511
+g512
+tp514
+a(g510
+I11
+g511
+g512
+tp515
+a(VReuilly
+I12
+VReuilly \u2013 Diderot
+p516
+V12
+p517
+tp518
+a(VDiderot
+I12
+g516
+g517
+tp519
+a(VRichard-Lenoir
+I11
+VRichard-Lenoir
+V11 
+tp520
+a(VRichelieu
+p521
+I2
+VRichelieu \u2013 Drouot
+p522
+V2 & 9
+p523
+tp524
+a(g521
+I9
+g522
+g523
+tp525
+a(VDrouot
+p526
+I2
+g522
+g523
+tp527
+a(g526
+I9
+g522
+g523
+tp528
+a(VRiquet
+I19
+VRiquet
+V19
+tp529
+a(VRobespierre
+VMontreuil
+VRobespierre
+VMontreuil
+tp530
+a(VRome
+p531
+I8
+VRome
+p532
+V8 & 17
+p533
+tp534
+a(g531
+I17
+g532
+g533
+tp535
+a(VRue de la Pompe
+I16
+VRue de la Pompe
+V16
+tp536
+a(VRue des Boulets
+I11
+VRue des Boulets
+V11
+tp537
+a(VRue du Bac
+I7
+VRue du Bac
+V7
+tp538
+a(VRue Saint-Maur
+I11
+VRue Saint-Maur
+V11
+tp539
+a(VSaint-Ambroise
+I11
+VSaint-Ambroise
+V11
+tp540
+a(VSaint-Augustin
+I8
+VSaint-Augustin
+V8
+tp541
+a(VSaint-Denis
+VSaint-Denis
+p542
+VSaint-Denis \u2013 Porte de Paris
+p543
+VSaint-Denis
+p544
+tp545
+a(VPorte de Paris
+g542
+g543
+g544
+tp546
+a(VSaint-Denis
+VSaint-Denis
+p547
+VSaint-Denis \u2013 Université
+p548
+VSaint-Denis
+p549
+tp550
+a(VUniversité
+g547
+g548
+g549
+tp551
+a(VSaint-Fargeau
+I20
+VSaint-Fargeau
+V20
+tp552
+a(VSaint-François-Xavier
+I7
+VSaint-François-Xavier
+V7
+tp553
+a(VSaint-Germain-des-Prés
+I6
+VSaint-Germain-des-Prés
+V6
+tp554
+a(VSaint-Georges
+I9
+VSaint-Georges
+V9
+tp555
+a(VSaint-Jacques
+I14
+VSaint-Jacques
+V14
+tp556
+a(VSaint-Lazare
+p557
+I8
+VSaint-Lazare
+p558
+V8 & 9
+p559
+tp560
+a(g557
+I9
+g558
+g559
+tp561
+a(VSaint-Marcel
+I13
+VSaint-Marcel
+V13
+tp562
+a(VSaint-Michel
+p563
+I5
+VSaint-Michel
+p564
+V5 & 6
+p565
+tp566
+a(g563
+I6
+g564
+g565
+tp567
+a(VSaint-Paul
+I4
+VSaint-Paul
+V4
+tp568
+a(VSaint-Philippe du Roule
+I8
+VSaint-Philippe du Roule
+V8
+tp569
+a(VSaint-Placide
+I6
+VSaint-Placide
+V6
+tp570
+a(VSaint-Sébastien
+p571
+I3
+VSaint-Sébastien \u2013 Froissart
+p572
+V3 & 11
+p573
+tp574
+a(g571
+I11
+g572
+g573
+tp575
+a(VFroissart
+p576
+I3
+g572
+g573
+tp577
+a(g576
+I11
+g572
+g573
+tp578
+a(VSaint-Sulpice
+I6
+VSaint-Sulpice
+V6
+tp579
+a(VSégur
+p580
+I7
+VSégur
+p581
+V7 & 15
+p582
+tp583
+a(g580
+I15
+g581
+g582
+tp584
+a(VSentier
+I2
+VSentier
+V2
+tp585
+a(VSèvres
+p586
+I6
+VSèvres \u2013 Babylone
+p587
+V6 & 7
+p588
+tp589
+a(g586
+I7
+g587
+g588
+tp590
+a(VBabylone
+p591
+I6
+g587
+g588
+tp592
+a(g591
+I7
+g587
+g588
+tp593
+a(VSèvres
+I15
+VSèvres \u2013 Lecourbe
+p594
+V15
+p595
+tp596
+a(VLecourbe
+I15
+g594
+g595
+tp597
+a(VSimplon
+I18
+VSimplon
+V18
+tp598
+a(VSolférino
+I7
+VSolférino
+V7
+tp599
+a(VStalingrad
+p600
+I10
+VStalingrad
+p601
+V10, 19
+p602
+tp603
+a(g600
+I19
+g601
+g602
+tp604
+a(VStrasbourg
+p605
+I2
+VStrasbourg \u2013 Saint-Denis
+p606
+V2, 3, 10
+p607
+tp608
+a(g605
+I3
+g606
+g607
+tp609
+a(g605
+I10
+g606
+g607
+tp610
+a(VSaint-Denis
+p611
+I2
+g606
+g607
+tp612
+a(g611
+I3
+g606
+g607
+tp613
+a(g611
+I10
+g606
+g607
+tp614
+a(VSully
+I4
+VSully \u2013 Morland
+p615
+V4
+tp616
+a(VMorland
+I4
+g615
+V4
+tp617
+a(VTélégraphe
+p618
+I19
+VTélégraphe
+p619
+V19 & 20
+p620
+tp621
+a(g618
+I20
+g619
+g620
+tp622
+a(VTemple
+I3
+VTemple
+V3
+tp623
+a(VTernes
+p624
+I8
+VTernes
+p625
+V8 & 17
+p626
+tp627
+a(g624
+I17
+g625
+g626
+tp628
+a(VTolbiac
+I13
+VTolbiac
+V13
+tp629
+a(VTrinité
+I9
+VTrinité \u2013 d'Estienne d'Orves
+p630
+V9
+tp631
+a(Vd'Estienne d'Orves
+I9
+g630
+V9
+tp632
+a(VTrocadéro
+I16
+VTrocadéro
+V16
+tp633
+a(VTuileries
+I1
+VTuileries
+V1
+tp634
+a(VVaneau
+p635
+I6
+VVaneau
+p636
+V6 & 7
+p637
+tp638
+a(g635
+I7
+g636
+g637
+tp639
+a(VVarenne
+I7
+VVarenne
+V7
+tp640
+a(VVaugirard
+I15
+VVaugirard
+V15
+tp641
+a(VVavin
+p642
+I6
+VVavin
+p643
+V6 & 14
+p644
+tp645
+a(g642
+I14
+g643
+g644
+tp646
+a(VVictor Hugo
+I16
+VVictor Hugo
+V16
+tp647
+a(VVilliers
+p648
+I8
+VVilliers
+p649
+V8 & 17
+p650
+tp651
+a(g648
+I17
+g649
+g650
+tp652
+a(VVolontaires
+I15
+VVolontaires
+V15
+tp653
+a(VVoltaire
+I11
+VVoltaire
+V11
+tp654
+a(VWagram
+p655
+I17
+VWagram
+p656
+V17
+p657
+tp658
+a.
