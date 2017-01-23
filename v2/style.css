@@ -125,11 +125,11 @@ overflow-y:none !important;
 }
 
 html {
-  font-size: 11pt !important; }
+  font-size: 9pt !important; }
 body {
-  font-size: 11pt !important; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 9pt !important; /* currently ems cause chrome bug misinterpreting rems on body element */
   /*line-height: 1.6 !important;*/
-  font-weight: 400 !important;
+  font-weight: 300 !important;
   /*font-family: "Railway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif !important;*/
   /*color: #ffff00 !important; */
 }
@@ -177,7 +177,7 @@ a:hover {
 code {
   padding: .2rem .5rem !important;
   margin: 0 .2rem !important;
-  font-size: 90% !important;
+  font-size: 100% !important;
   white-space: nowrap !important;
   background: #F1F1F1 !important;
   /*border: 1px solid #E1E1E1 !important;*/
