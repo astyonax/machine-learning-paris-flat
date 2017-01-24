@@ -1,4 +1,6 @@
 # Second version
+> (24.01.17) Revised structure. Readme todo.
+
 > (10.01.17) Unfinished but readable
 
 
