@@ -49929,8 +49929,6 @@ sS'Description'
 p17558
 VLa campagne en plein Paris ! Studio meublé enti\u010drement rénové et moderne avec jardin privatif de 22m\u02db et cabanon de 6 m\u02db aménagé et fermé Appartement tr\u010ds calme et ensoleillé donnant sur un immense jardin arboré,  exposition sud, aucun vis-\u0155-vis, superficie de 20 m\u02db (+ mezzanine de 6m\u02db), aucune perte d’espace, tr\u010ds fonctionnel et bien aménagé, beaucoup de charme. Digicode. Petit immeuble de 3 étages. * Mezzanine de 6 m\u02db construite par menuisier avec escalier, lit double et rangements, grande hauteur sous plafond. * Salon avec parquet massif et grands placards/penderie avec miroirs. * Cuisine toute équipée : induction, réfrigérateur, congélateur, micro-ondes, lave-linge * Jardin privatif avec pelouse et arbres fruitiers. Possibilité Barbecue. * Cabanon de 6 m\u02db enti\u010drement refait et fermé (double verrou), isolé avec chauffage, eau, électricité et grands placards \u0155 l’intérieur, idéal pour bureau, buanderie, chambre d’appoint, atelier d’artiste... Paris 20\u010dme, métros Gambetta/Jourdain (15 minutes de Châtelet). Proche de toutes commodités (commerces, métro, bus, parc des Buttes Chaumont) Quartier tr\u010ds vivant surplombant Paris. Photos de l’appartement sur demande par email. Libre le 23 février. 1100 euros charges comprises
 p17559
-sg17553
-V1
 sg17513
 S'Rare : Studio meuble 32m2 + jardin privatif'
 p17560
@@ -49947,12 +49945,14 @@ p17562
 sS'Surface'
 p17563
 F32
-sS'Ges'
-p17564
-VC (de 11 à 20)
-p17565
+sg17553
+V1
 sg17524
 S'http://www.leboncoin.fr/locations/1082736361.htm?ca=12_s'
+p17564
+sS'Ges'
+p17565
+VC (de 11 à 20)
 p17566
 sg17547
 I01
@@ -49981,8 +49981,6 @@ sS'Description'
 p17576
 VDisponible du 10 Mars au 10 mai Je loue ma chambre dans le marais, dans une collocation de 55m2. L'appartement est tr\u010ds bien situé, proche des métros et ligne de bus, tout équipé. La chambre est grande, lumineuse et enti\u010drement meublée. Ma collocataire est une étudiante de 26 ans.
 p17577
-sg17553
-V3
 sg17513
 S'Collocation dans le marais'
 p17578
@@ -49999,12 +49997,14 @@ p17580
 sS'Surface'
 p17581
 F55
-sS'Ges'
-p17582
-VNon renseigné
-p17583
+sg17553
+V3
 sg17524
 S'http://www.leboncoin.fr/locations/1082736352.htm?ca=12_s'
+p17582
+sS'Ges'
+p17583
+VNon renseigné
 p17584
 sg17547
 I01
@@ -50089,8 +50089,6 @@ sS'Description'
 p17614
 V21 rue du Temple. Appartement 2 pi\u010dces de 35m2 disponible immédiatement. Beau volume. Sur cour, donc calme. Une piéce d'entrée avec un coin cuisine. Une salle de bain, douche, lavabo, wc et branchement machine. salon parquet cheminée, chambre avec rangement. Premier étage. Télephonez au 0675643627 , pour RDV samedi 28/01 avec votre dossier.
 p17615
-sg17553
-V2
 sg17513
 S'Appartement 2 pieces de 35m2 a louer'
 p17616
@@ -50107,12 +50105,14 @@ p17618
 sS'Surface'
 p17619
 F35
-sS'Ges'
-p17620
-VC (de 11 à 20)
-p17621
+sg17553
+V2
 sg17524
 S'http://www.leboncoin.fr/locations/1082733857.htm?ca=12_s'
+p17620
+sS'Ges'
+p17621
+VC (de 11 à 20)
 p17622
 sg17547
 I00
@@ -50131,328 +50131,3256 @@ sa(dp17628
 S'LoyerMensuel'
 p17629
 F1780
-sS'ChargesComprises'
-p17630
-I01
-sS'pid'
-p17631
-S'1082754035'
-p17632
-sS'ClasseEnergie'
-p17633
-VE (de 231 à 330)
-p17634
-sS'Ges'
-p17635
-VF (de 56 à 80)
-p17636
 sS'Ville'
-p17637
+p17630
 VParis 75009
-p17638
+p17631
+sS'ChargesComprises'
+p17632
+I01
 sS'Description'
-p17639
+p17633
 VCité de Trévise 75009 Paris. Métro Cadet. Immeuble de caract\u010dre dans rue tranquille et pavée donnant sur la fontaine de Trévise, appartement 64 m2 enti\u010drement rénové au 1er étage avec ascenseur. Jolies parties communes bien entretenues. Gardienne. Une galerie centrale dessert toutes les pi\u010dces : 3 pi\u010dces dont une ouverte sur la galerie, 1 cuisine , 1 WC avec cuvette suspendue, 1 vestiaire, 1 salle de bains avec une baignoire. Les fen\u0119tres des 3 pi\u010dces principales donnent sur la rue. Les fen\u0119tres de la cuisine, et la salle de bains sont sur cour. Parquet, moulures. Chauffage et eau chaude individuels au gaz. Loyer mensuel 1660 euros + provisions pour charges 120 euros. Disponible début février. Pas de frais agence. 06 21 30 26 02
-p17640
+p17634
 sS'title'
-p17641
+p17635
 S'Cite de Trevise appartement 64m2'
-p17642
+p17636
 sS'Arrondissement'
-p17643
+p17637
 I9
 sS'Problematic'
-p17644
+p17638
 I00
 sS'md5sum'
-p17645
+p17639
 S'0be592608f38e7e4ed162a1110e7b176'
-p17646
+p17640
+sS'pid'
+p17641
+S'1082754035'
+p17642
 sS'Surface'
-p17647
+p17643
 F64
 sS'Pieces'
-p17648
+p17644
 V3
 sS'url'
-p17649
+p17645
 S'http://www.leboncoin.fr/locations/1082754035.htm?ca=12_s'
-p17650
+p17646
+sS'Ges'
+p17647
+VF (de 56 à 80)
+p17648
 sS'Meuble'
-p17651
+p17649
 I00
 sS'TypeDeBien'
-p17652
+p17650
 VAppartement
-p17653
+p17651
 sS'insert_time'
-p17654
+p17652
 V23/01/17, 17:51
+p17653
+sS'ClasseEnergie'
+p17654
+VE (de 231 à 330)
 p17655
 sa(dp17656
 S'LoyerMensuel'
 p17657
 F650
-sg17630
-I00
-sg17631
-S'1082753248'
-p17658
-sS'ClasseEnergie'
-p17659
-VF (de 331 à 450)
-p17660
-sS'Ges'
-p17661
-VF (de 56 à 80)
-p17662
 sS'Ville'
-p17663
+p17658
 VParis 75012
-p17664
-sS'Description'
-p17665
-VA 300m du Métro ligne 1 Château de Vincennes, dans une petite copropriété en brique bien entretenue, lumineux 2 pi\u010dces refait \u0155 neuf comprenant une entrée, un séjour avec cuisine ouverte aménagée, une chambre avec placard, un salle d'eau avec WC. Disponible de suite. Afin d'effectuer une visite, merci de nous contacter par e-mail en précisant votre situation professionnelle. Surface de 31 m\u02db 1 Etage 2 Pi\u010dces 1 Chambre 1 Salle d'eau 1 Toilette Rangements Chauffage central gaz radiat... Cuisine américaine Digicode Entrée Salle de Séjour DPE : F (436) GES : F (73) Honoraires ttc : 465 € Garantie : 650 € Charges : 90 €
-p17666
-sS'Reference'
-p17667
-V430250
-p17668
-sg17641
-S'Belle appartement'
-p17669
-sg17643
-I12
-sg17644
+p17659
+sg17632
 I00
-sg17645
+sS'Description'
+p17660
+VA 300m du Métro ligne 1 Château de Vincennes, dans une petite copropriété en brique bien entretenue, lumineux 2 pi\u010dces refait \u0155 neuf comprenant une entrée, un séjour avec cuisine ouverte aménagée, une chambre avec placard, un salle d'eau avec WC. Disponible de suite. Afin d'effectuer une visite, merci de nous contacter par e-mail en précisant votre situation professionnelle. Surface de 31 m\u02db 1 Etage 2 Pi\u010dces 1 Chambre 1 Salle d'eau 1 Toilette Rangements Chauffage central gaz radiat... Cuisine américaine Digicode Entrée Salle de Séjour DPE : F (436) GES : F (73) Honoraires ttc : 465 € Garantie : 650 € Charges : 90 €
+p17661
+sS'Reference'
+p17662
+V430250
+p17663
+sg17635
+S'Belle appartement'
+p17664
+sg17637
+I12
+sg17638
+I00
+sg17639
 S'207d35b1daa61c8c06b01360d21e5ae3'
-p17670
+p17665
+sg17641
+S'1082753248'
+p17666
 sS'Surface'
-p17671
+p17667
 F31
-sg17648
-V2
-sg17649
+sS'Ges'
+p17668
+VF (de 56 à 80)
+p17669
+sg17645
 S'http://www.leboncoin.fr/locations/1082753248.htm?ca=12_s'
-p17672
-sg17651
+p17670
+sg17649
 I00
 sS'TypeDeBien'
-p17673
+p17671
 VAppartement
-p17674
-sg17654
+p17672
+sg17652
 V23/01/17, 17:50
+p17673
+sS'ClasseEnergie'
+p17674
+VF (de 331 à 450)
 p17675
+sg17644
+V2
 sa(dp17676
 S'LoyerMensuel'
 p17677
 F1932
-sg17630
-I01
-sg17631
-S'1067587653'
-p17678
-sS'ClasseEnergie'
-p17679
-VB (de 51 à 90)
-p17680
-sS'Ges'
-p17681
-VC (de 11 à 20)
-p17682
 sS'Ville'
-p17683
+p17678
 VParis 75018
-p17684
+p17679
+sg17632
+I01
 sS'Description'
-p17685
+p17680
 VProche Métro Jules Joffrin : rue Baudelique : dans immeuble neuf de standing : appartement de 3 pi\u010dces avec balcon, de 60.07 m\u02db, au 1er étage avec ascenseur, comprenant une entrée avec placard, un séjour avec cuisine aménagée et équipée d’une hotte et d’une plaque, deux chambres, une salle de bains avec wc. Chauffage collectif. Parking. !!! Journées Portes Ouvertes le Vendredi 27 janvier de 11H \u0155 17H !!! ** PAS DE COLOCATION ** Contact : Johanne FORA au 06 07 97 92 13 ou johanne.fora@scaprim.com Honoraires : 925,50€ Dépôt de garantie : 1778€
-p17686
+p17681
 sS'Reference'
-p17687
+p17682
 VBaud105
-p17688
-sg17641
+p17683
+sg17635
 S'Dans immeuble neuf, appartement 3 pieces'
-p17689
-sg17643
+p17684
+sg17637
 I18
-sg17644
+sg17638
 I00
-sg17645
+sg17639
 S'497678d03a444ea07bda0baa7fdd0abe'
-p17690
+p17685
+sg17641
+S'1067587653'
+p17686
 sS'Surface'
-p17691
+p17687
 F60
-sg17648
-V3
-sg17649
+sS'Ges'
+p17688
+VC (de 11 à 20)
+p17689
+sg17645
 S'http://www.leboncoin.fr/locations/1067587653.htm?ca=12_s'
-p17692
+p17690
 sS'TypeDeBien'
-p17693
+p17691
 VAppartement
-p17694
-sg17654
+p17692
+sg17652
 V23/01/17, 17:49
+p17693
+sS'ClasseEnergie'
+p17694
+VB (de 51 à 90)
 p17695
+sg17644
+V3
 sa(dp17696
 S'LoyerMensuel'
 p17697
 F980
-sg17630
-I01
-sg17631
-S'1082752583'
-p17698
-sS'ClasseEnergie'
-p17699
-VNon renseigné
-p17700
-sS'Ges'
-p17701
-VNon renseigné
-p17702
 sS'Ville'
-p17703
+p17698
 VParis 75020
-p17704
+p17699
+sg17632
+I01
 sS'Description'
-p17705
+p17700
 VA deux pas de la rue des Pyrénées. Rue des Orteaux. Dans immeuble ancien, beau 2 pi\u010dces 40 m\u02db, au 2eme étage sans ascenseur, double exposition, entrée, petite salle d'eau équipée avec douche, wc, cuisine séparée, salon, chambre avec fen\u0119tres donnant sur rue double vitrage. Bon état et enti\u010drement carrelé. Chauffage électrique Proche toutes commodités : commerces, marché, transports, école, métro Maraîchers, ou Alexandre Dumas bus 26 et 64. Pas de colocation pour étudiants. Revenus suffisants et garants demandés. 980 E/mois charges comprises. Pour information vous pouvez me contacter par téléphone. et venez visiter un appartement bien située je ne réponds pas au mails ni au sms
-p17706
-sg17641
+p17701
+sg17635
 S'Paris 20 eme , 2 pieces 40 M2'
-p17707
-sg17643
+p17702
+sg17637
 I20
-sg17644
+sg17638
 I00
-sg17645
+sg17639
 S'b5e22bb8673ac5054e97f1e71b4d5a6b'
-p17708
+p17703
+sg17641
+S'1082752583'
+p17704
 sS'Surface'
-p17709
+p17705
 F40
-sg17648
+sg17644
 V2
-sg17649
+sg17645
 S'http://www.leboncoin.fr/locations/1082752583.htm?ca=12_s'
-p17710
-sg17651
+p17706
+sS'Ges'
+p17707
+VNon renseigné
+p17708
+sg17649
 I00
 sS'TypeDeBien'
-p17711
+p17709
 VAppartement
-p17712
-sg17654
+p17710
+sg17652
 V23/01/17, 17:49
+p17711
+sS'ClasseEnergie'
+p17712
+VNon renseigné
 p17713
 sa(dp17714
 S'LoyerMensuel'
 p17715
 F1530
-sg17630
-I01
-sg17631
-S'1082747854'
-p17716
-sS'ClasseEnergie'
-p17717
-VNon renseigné
-p17718
-sS'Ges'
-p17719
-VNon renseigné
-p17720
 sS'Ville'
-p17721
+p17716
 VParis 75014
-p17722
+p17717
+sg17632
+I01
 sS'Description'
-p17723
+p17718
 VPr\u010ds de la gare 2 pi\u010dces entrée cuisine salle d'eau dressing chauffage gaz individuel 2e étage, tr\u010ds lumineux sur square calme libre 1er mars diagnostics en cours de réalisation
-p17724
-sg17641
+p17719
+sg17635
 S'Montparnasse appartement'
-p17725
-sg17643
+p17720
+sg17637
 I14
-sg17644
+sg17638
 I00
-sg17645
+sg17639
 S'7cfca1103c12c34eb214e7ebe682278e'
-p17726
+p17721
+sg17641
+S'1082747854'
+p17722
 sS'Surface'
-p17727
+p17723
 F50
-sg17648
+sg17644
 V2
-sg17649
+sg17645
 S'http://www.leboncoin.fr/locations/1082747854.htm?ca=12_s'
-p17728
-sg17651
+p17724
+sS'Ges'
+p17725
+VNon renseigné
+p17726
+sg17649
 I00
 sS'TypeDeBien'
-p17729
+p17727
 VAppartement
-p17730
-sg17654
+p17728
+sg17652
 V23/01/17, 17:41
+p17729
+sS'ClasseEnergie'
+p17730
+VNon renseigné
 p17731
 sa(dp17732
 S'LoyerMensuel'
 p17733
 F750
-sg17630
-I01
-sg17631
-S'1082747665'
-p17734
-sS'ClasseEnergie'
-p17735
-VNon renseigné
-p17736
-sS'Ges'
-p17737
-VNon renseigné
-p17738
 sS'Ville'
-p17739
+p17734
 VParis 75011
-p17740
+p17735
+sg17632
+I01
 sS'Description'
-p17741
+p17736
 VURGENT - Disponible immédiatement. T2 - Paris 11\u010dme - Quartier Fontaine au Roi Contact : Mr Ramousse - 06 12 58 50 25
-p17742
-sg17641
+p17737
+sg17635
 S'T2 - Paris 11'
-p17743
-sg17643
+p17738
+sg17637
 I11
-sg17644
+sg17638
 I00
-sg17645
+sg17639
 S'c3c5db6b4b1093a80bd519d2dd7d4066'
-p17744
+p17739
+sg17641
+S'1082747665'
+p17740
 sS'Surface'
-p17745
+p17741
 F32
-sg17648
+sg17644
 V2
-sg17649
+sg17645
 S'http://www.leboncoin.fr/locations/1082747665.htm?ca=12_s'
-p17746
-sg17651
+p17742
+sS'Ges'
+p17743
+VNon renseigné
+p17744
+sg17649
 I00
 sS'TypeDeBien'
-p17747
+p17745
 VAppartement
-p17748
-sg17654
+p17746
+sg17652
 V23/01/17, 17:41
+p17747
+sS'ClasseEnergie'
+p17748
+VNon renseigné
 p17749
+sa(dp17750
+S'LoyerMensuel'
+p17751
+F40
+sS'Ville'
+p17752
+VParis 75013
+p17753
+sS'ChargesComprises'
+p17754
+I01
+sS'Description'
+p17755
+VLocation d'une tr\u03b8s belle salle de 100m2 pour R\u03b9p\u03b9tition et Stage le soir et le Week-end Salle de Danse (sol harlequin), de chant (\u03b9quip\u03b9 en Sono) et/ou de Th\u03b9\u03b2tre, Yoga, Clown ... de projet tournage (murs blancs) ... Local neuf et moderne avec ventilation et lumi\u03b8re du jour. Pr\u03b8s du Parc Montsouris, Rue de l'Armiral Mouchez
+p17756
+sS'title'
+p17757
+S'Location Salle de repetition 100m2 Soir & Week-end'
+p17758
+sS'Arrondissement'
+p17759
+I13
+sS'Problematic'
+p17760
+I00
+sS'md5sum'
+p17761
+S'05c940253015f101d58e28fb76541a2e'
+p17762
+sS'pid'
+p17763
+S'998024312'
+p17764
+sS'Surface'
+p17765
+F100
+sS'Ges'
+p17766
+VVierge
+p17767
+sS'url'
+p17768
+S'http://www.leboncoin.fr/locations/998024312.htm?ca=12_s'
+p17769
+sS'TypeDeBien'
+p17770
+VAutre
+p17771
+sS'insert_time'
+p17772
+V24/01/17, 09:07
+p17773
+sS'ClasseInergie'
+p17774
+VVierge
+p17775
+sa(dp17776
+S'LoyerMensuel'
+p17777
+F1300
+sS'Ville'
+p17778
+VParis 75015
+p17779
+sg17754
+I01
+sS'Description'
+p17780
+VChamant 2P refait a neuf meuble au 3eme etage avec ascenseur. Immeuble calme et bien entretenu L'appartement se compose : Salon avec canape lit, table basse qui se rehausse avec 4 chaises. Loggia dans le salon et chambre Chambre avec lit double et grandes penderies Meuble bas avec TV Salle de bain moderne avec lave lage et rangements Cuisine toute equipee ouverte  sur le salon avec un bar. Elle est équipée avec lave vaisselle, micro-onde, four, réfrigérateur, plaques de cuisson et hôte. WC sépare Local velo et cave.
+p17781
+sg17757
+S'Charmant 2P meuble Paris 15'
+p17782
+sg17759
+I15
+sg17760
+I00
+sg17761
+S'a430f1b6e2c729241378e0fe1fbe9b7f'
+p17783
+sg17763
+S'1082959824'
+p17784
+sS'Surface'
+p17785
+F35
+sS'Pieces'
+p17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1082959824.htm?ca=12_s'
+p17787
+sS'Ges'
+p17788
+VC (de 11 à 20)
+p17789
+sS'Meuble'
+p17790
+I01
+sS'TypeDeBien'
+p17791
+VAppartement
+p17792
+sg17772
+V24/01/17, 09:02
+p17793
+sS'ClasseEnergie'
+p17794
+VE (de 231 à 330)
+p17795
+sa(dp17796
+S'LoyerMensuel'
+p17797
+F950
+sS'Ville'
+p17798
+VParis 75012
+p17799
+sg17754
+I01
+sS'Description'
+p17800
+VAppartement ou grand studio avec 1 petit salon et cuisine intégré 1 petite chambre 1 salle de douche 1 cave individuelle 1 cour arborée collective avec cabanon pour vélo Porte digicode Location meublé pour reprise bail ou sous location Proche Porte Dorée Loyer 950euros charges comprises Dépot de garantie de 2 mois exigée La rue est tr\u010ds calme ( sens unique) Commerce \u0155 proximité Lac Daumesnil ,zoo et aquarium non loin Convient \u0155 couple sans enfant.
+p17801
+sg17757
+S'Appartement T2 Paris 12'
+p17802
+sg17759
+I12
+sg17760
+I00
+sg17761
+S'23d18d6a6dfbe8996f6e7faddf138204'
+p17803
+sg17763
+S'1082947250'
+p17804
+sS'Surface'
+p17805
+F28
+sg17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1082947250.htm?ca=12_s'
+p17806
+sS'Ges'
+p17807
+VNon renseigné
+p17808
+sg17790
+I01
+sS'TypeDeBien'
+p17809
+VAppartement
+p17810
+sg17772
+V24/01/17, 08:06
+p17811
+sS'ClasseEnergie'
+p17812
+VNon renseigné
+p17813
+sa(dp17814
+S'LoyerMensuel'
+p17815
+F800
+sS'Ville'
+p17816
+VParis 75013
+p17817
+sg17754
+I01
+sS'Description'
+p17818
+VJe serai en déplacement tout le mois de mars et souhaite donc louer mon studio. il est au 10\u010dme étage (avec ascenseur). Tout équipé, balcon avec vu sur parc et sur les toits de - Un grand canapé lit pour 2 personnes - un matelas futon au sol pour 2 personnes - Draps et ligne de lit fournit Tout le nécessaire pour cuisiner est l\u0155. Dans le quartier, vous trouverez boulangeries, boucheries, épiceries, superettes Plusieurs acc\u010ds au métro. Rue butte aux cailles \u0155 10 min \u0155 pieds (bars, restaurants). Station velib et autolib au pied de l'immeuble. possibilité de louer 15 jours: 500 euros possibilité de louer le mois complet: 800 euros situé boulevard Arago 75013
+p17819
+sg17757
+S'Location appartement studio pour mars'
+p17820
+sg17759
+I13
+sg17760
+I00
+sg17761
+S'92c3a332810989769f35b9d43eac5496'
+p17821
+sg17763
+S'1082944790'
+p17822
+sS'Surface'
+p17823
+F26
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082944790.htm?ca=12_s'
+p17824
+sS'Ges'
+p17825
+VNon renseigné
+p17826
+sg17790
+I01
+sS'TypeDeBien'
+p17827
+VAppartement
+p17828
+sg17772
+V24/01/17, 07:52
+p17829
+sS'ClasseEnergie'
+p17830
+VNon renseigné
+p17831
+sa(dp17832
+S'LoyerMensuel'
+p17833
+F990
+sS'Ville'
+p17834
+VParis 75018
+p17835
+sg17754
+I01
+sS'Description'
+p17836
+VJe loue mon studio une piece de 25m2 (metro Pigalle) proche Abbesses et Moulin Rouge, pour une durée de 1 \u0155 3 mois \u0155 partir de Février. (Fevrier, Mars et Avril). Quartier touristique et animé. Canapé lit 2 places Coin cuisine Wifi SDB avec douche et WC Loyer 990 euros par mois. Merci de me joindre par téléphone; si je ne réponds pas veuillez me laisser un sms ou un mail. Merci Pas sérieux s'abstenir.
+p17837
+sg17757
+S'Studio Montmartre 3 MOIS'
+p17838
+sg17759
+I18
+sg17760
+I00
+sg17761
+S'97713fcae7322a81424772949fa70e2f'
+p17839
+sg17763
+S'1082927669'
+p17840
+sS'Surface'
+p17841
+F25
+sS'Ges'
+p17842
+VD (de 21 à 35)
+p17843
+sg17768
+S'http://www.leboncoin.fr/locations/1082927669.htm?ca=12_s'
+p17844
+sg17790
+I01
+sS'TypeDeBien'
+p17845
+VAppartement
+p17846
+sg17772
+V24/01/17, 05:40
+p17847
+sS'ClasseEnergie'
+p17848
+VD (de 151 à 230)
+p17849
+sa(dp17850
+S'LoyerMensuel'
+p17851
+F2900
+sS'Ville'
+p17852
+VParis 75016
+p17853
+sg17754
+I01
+sS'Description'
+p17854
+VPlace du Trocadéro - RARE - Emplacement exceptionnel pour ce beau 3 pieces de haut standing enti\u010drement refait \u0155 neuf situé sur la Place du Trocadéro, dans un bel immeuble Haussmannien au 1er étage sur cour. Il comprend une entrée avec dressing sur mesure, un grand séjour, une cuisine enti\u010drement équipée avec électroménager haut de gamme, deux belles chambres et une sublime salle d'eau avec douche \u0155 l'italienne et WC. Calme absolu. Prix 2900Euro(s) cc . Dispo a partir du 10 Mars 2017
+p17855
+sg17757
+S'3 Pieces Place du Trocadero'
+p17856
+sg17759
+I16
+sg17760
+I00
+sg17761
+S'190c36a3205fae3fa3bf3da1e553f664'
+p17857
+sg17763
+S'1082918952'
+p17858
+sS'Surface'
+p17859
+F70
+sg17786
+V3
+sg17768
+S'http://www.leboncoin.fr/locations/1082918952.htm?ca=12_s'
+p17860
+sS'Ges'
+p17861
+VC (de 11 à 20)
+p17862
+sg17790
+I01
+sS'TypeDeBien'
+p17863
+VAppartement
+p17864
+sg17772
+V24/01/17, 01:30
+p17865
+sS'ClasseEnergie'
+p17866
+VC (de 91 à 150)
+p17867
+sa(dp17868
+S'LoyerMensuel'
+p17869
+F1125
+sS'Ville'
+p17870
+VParis 75018
+p17871
+sg17754
+I01
+sS'Description'
+p17872
+VProche de la butte montmartre mairie jules joffrin beau 2 pieces meuble. Quatier anime nombreux commerces peintures blanches. Dans immeuble pierre de taille securise  tapis balconnets libre. 1200 euros toutes charges compris
+p17873
+sg17757
+S'2 piecss a louer'
+p17874
+sg17759
+I18
+sg17760
+I00
+sg17761
+S'64d41da674000ea64c8b5c634bd74879'
+p17875
+sg17763
+S'1082914215'
+p17876
+sS'Surface'
+p17877
+F35
+sS'Ges'
+p17878
+VNon renseigné
+p17879
+sg17768
+S'http://www.leboncoin.fr/locations/1082914215.htm?ca=12_s'
+p17880
+sg17790
+I01
+sS'TypeDeBien'
+p17881
+VAppartement
+p17882
+sg17772
+V24/01/17, 00:33
+p17883
+sS'ClasseEnergie'
+p17884
+VNon renseigné
+p17885
+sa(dp17886
+S'LoyerMensuel'
+p17887
+F960
+sS'Ville'
+p17888
+VParis 75019
+p17889
+sg17754
+I01
+sS'Description'
+p17890
+VGrand studio \u0155 louer Paris 19e, au 5e étage avec ascenseur. Situé rue Archereau, métro Crimée ligne 7, bus n° 54 et 60, \u0155 toute proximité du Canal de l'Ourcq, du 104, du parc de la Villette, et de tous commerces ! Appartement clair et lumineux, meublé avec soin, cuisine équipée, y compris machine a laver, grande salle de bain avec baignoire et fen\u0119tre, grands rangements. Copropriété conviviale avec gardienne et parking \u0155 vélo. Les charges comprennent eau, électricité, chauffage collectif, internet et charges communes a l'immeuble. Disponible \u0155 partir du 10-15 février. Echanges possibles avec le présent locataire ! A saisir
+p17891
+sg17757
+S'Grand studio lumineux Paris 19e'
+p17892
+sg17759
+I19
+sg17760
+I00
+sg17761
+S'357483cff020a2f7ce42c3c7703e6533'
+p17893
+sg17763
+S'1082912019'
+p17894
+sS'Surface'
+p17895
+F34
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082912019.htm?ca=12_s'
+p17896
+sS'Ges'
+p17897
+VC (de 11 à 20)
+p17898
+sg17790
+I01
+sS'TypeDeBien'
+p17899
+VAppartement
+p17900
+sg17772
+V24/01/17, 00:18
+p17901
+sS'ClasseEnergie'
+p17902
+VC (de 91 à 150)
+p17903
+sa(dp17904
+S'LoyerMensuel'
+p17905
+F1080
+sS'Ville'
+p17906
+VParis 75018
+p17907
+sg17754
+I01
+sS'Description'
+p17908
+VBeau 2 pi\u010dces de 38 m\u02db, tr\u010ds bon état, au 2\u010dme étage dans les arbres, dans une bonne copropriété (ascenseur, gardien). Tr\u010ds bon état général, refait \u0155 neuf récemment et réguli\u010drement repeint. Décoration soignée. Il se compose d'une entrée avec dressing, d'un salon avec une cuisine ouverte équipée et comportant 2 fen\u0119tres, et d"une chambre donnant sur une impasse. Salle de bains et wc sont séparés. Il se situe entre les métros Guy Moquet et Porte de Saint-Ouen, \u0155 2 pas de la petite gare en cours de transformation en lieu culturel / concerts. Nombreux commerces, proximité Montmartre et Batignolles. Loyer : 1 080 / charges 120 (hors EDF). Disponible de suite. Visites \u0155 programmer entre le 24/01 et le 28/01.
+p17909
+sg17757
+S'Superbe 2 pieces meuble, design, Paris 18'
+p17910
+sg17759
+I18
+sg17760
+I00
+sg17761
+S'509e189f61582a19acf9880fb323b420'
+p17911
+sg17763
+S'1082908572'
+p17912
+sS'Surface'
+p17913
+F38
+sg17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1082908572.htm?ca=12_s'
+p17914
+sS'Ges'
+p17915
+VVierge
+p17916
+sg17790
+I01
+sS'TypeDeBien'
+p17917
+VAppartement
+p17918
+sg17772
+V23/01/17, 23:52
+p17919
+sS'ClasseEnergie'
+p17920
+VVierge
+p17921
+sa(dp17922
+S'LoyerMensuel'
+p17923
+F2850
+sS'Ville'
+p17924
+VParis 75016
+p17925
+sg17754
+I00
+sS'Description'
+p17926
+VRue du Ranelagh, dans un immeuble des années 83, au rez-de-chaussée sur rue, un local de bureaux traversant, calme et clair avec entrée individuelle sur rue, composé d'une entrée avec bureau de réception, d'un open-space (7/8 postes de travail possibles) avec vue sur jardin, d'un bureau de direction et toilettes. Nombreux placards et rangements Immeuble avec gardien. Charges mensuelles:  333,33 Dépôt de garantie:8 550€ (trois mois de loyer) Bail 3,6,9 ans Métro Boulainvilliers, Jasmin, Muette
+p17927
+sg17757
+S'Bureau Commercial Paris 75016'
+p17928
+sg17759
+I16
+sg17760
+I00
+sg17761
+S'ae95217a65a818002a005bdfed3f2ebb'
+p17929
+sg17763
+S'1076450585'
+p17930
+sS'Surface'
+p17931
+F88
+sS'Ges'
+p17932
+VC (de 11 à 20)
+p17933
+sg17768
+S'http://www.leboncoin.fr/locations/1076450585.htm?ca=12_s'
+p17934
+sg17790
+I00
+sS'TypeDeBien'
+p17935
+VAutre
+p17936
+sg17772
+V23/01/17, 23:49
+p17937
+sS'ClasseEnergie'
+p17938
+VD (de 151 à 230)
+p17939
+sa(dp17940
+S'LoyerMensuel'
+p17941
+F1600
+sS'Ville'
+p17942
+VParis 75012
+p17943
+sg17754
+I01
+sS'Description'
+p17944
+VParis 12\u010dme, Bel appartement de 50 M2, proche de la place DAUMESNIL, au premier étage dans un immeuble sécurisé de 1996 avec terrasse privative sans vis-\u0155-vis de 34m2, et dont les pi\u010dces acc\u010ddent \u0155 la terrasse. Il est composé d'une entrée avec placard et toilettes séparées, d'un grand séjour avec dressing, d'une cuisine séparée bien équipée (lave-vaisselle, lave-linge, micro-onde, grand réfrigérateur-congélateur) et d'une grande chambre avec grand placard et salle de bain attenante. Chauffage électrique, ascenseur sécurisé, WIFI, télévision, chaîne HIFI. Possibilité de parking dans l'immeuble en sus. Location longue durée préférée
+p17945
+sg17757
+S'Appartement meuble deux piece a Paris 12eme'
+p17946
+sg17759
+I12
+sg17760
+I00
+sg17761
+S'10763fb6a49dd9de5cfdeeea4e6ef68e'
+p17947
+sg17763
+S'1024056341'
+p17948
+sS'Surface'
+p17949
+F50
+sg17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1024056341.htm?ca=12_s'
+p17950
+sS'Ges'
+p17951
+VB (de 6 à 10)
+p17952
+sg17790
+I01
+sS'TypeDeBien'
+p17953
+VAppartement
+p17954
+sg17772
+V23/01/17, 23:40
+p17955
+sS'ClasseEnergie'
+p17956
+VD (de 151 à 230)
+p17957
+sa(dp17958
+S'LoyerMensuel'
+p17959
+F430
+sS'Ville'
+p17960
+VParis 75020
+p17961
+sg17754
+I01
+sS'Description'
+p17962
+VA louer en colocation  1chambre, Chambre de 8 m2  , cuisine et salle de bain,internet en usage commun. 430 euros charges comprises Les APLs sont éligibles. Disponible début Fevrier.
+p17963
+sg17757
+S'Chambre dans colocation Paris 20eme Nation'
+p17964
+sg17759
+I20
+sg17760
+I00
+sg17761
+S'be3fdb1c237936c6c5f1a9a53fa43bd9'
+p17965
+sg17763
+S'1082905639'
+p17966
+sS'Surface'
+p17967
+F42
+sg17786
+V3
+sg17768
+S'http://www.leboncoin.fr/locations/1082905639.htm?ca=12_s'
+p17968
+sS'Ges'
+p17969
+VD (de 21 à 35)
+p17970
+sg17790
+I01
+sS'TypeDeBien'
+p17971
+VAppartement
+p17972
+sg17772
+V23/01/17, 23:35
+p17973
+sS'ClasseEnergie'
+p17974
+VD (de 151 à 230)
+p17975
+sa(dp17976
+S'LoyerMensuel'
+p17977
+F3350
+sS'Ville'
+p17978
+VParis 75003
+p17979
+sg17754
+I01
+sS'Description'
+p17980
+VTr\u010ds beau duplex meublé en parfait état, surface utile 123 m2 (surface habitable 100 m2). 4 pi\u010dces dont 2 chambres et 2 SDB, en duplex, dans un immeuble inscrit monument historique, situé dans le haut Marais, rue vieille du temple, 75003, \u0155 l'angle avec la rue de Bretagne : au 5\u010dme, sans ascenseur - par escalier en ch\u0119ne et fer forgé, desservant uniquement 4 appartements -. Electro-ménager haut de gamme "Miele" , cuisine réalisée sur mesure par un cuisiniste. Description du duplex. Au 5\u010dme étage : + Entrée, dégagement, toilette invités, + Cuisine aménagée - îlot central - et Salle \u0155 Manger avec 3 fen\u0119tres sur cour de 23 m2,, + Chambre de 16 m2 avec grande penderie avec 1 fen\u0119tre sur cour, donnant sur + une Salle de Bain et toilette de 5 m2 avec 1 fen\u0119tre sur cour. Par un escalier intérieur on acc\u010dde \u0155 + une galerie donnant sur + un séjour cathédral - hauteur sous faîtage de 4 m\u010dtres : 36 m2 au sol et 23 m2 Carrez, Double exposition , tr\u010ds clair avec  6 fen\u0119tres de toit, + deuxi\u010dme Chambre de 12 m2 au sol avec sa + Salle d'eau privative de 7,5 m2 au sol. + Un petit balcon donne sur les toits en tuiles anciennes. Métro : ligne 8 station Filles du Calvaire \u0155 4 mn \u0155 pied ( ou République \u0155 7 mn \u0155 pied ). Bus 96 \u0155 30 m\u010dtres  de l'immeuble. L'immeuble de trouve \u0155 5' mn \u0155 pied du musée Picasso, des Archives nationales ou du square du Temple et \u0155 7' mn \u0155 pied de la place des Vosges , de la rue de Rivoli et de l’hôtel de ville. Surface utile 123 m2, surface habitable 100 m2 . Loyer mensuel de 3200 euro hors charges et 150 euro de charges locatives mensuelles. Visite possible en semaine et week-end sur RDV contacter Marie : 06 82 87 13 35
+p17981
+sg17757
+S'Duplex meuble 4P Marais_ 123m2 utile_3200EUR HC'
+p17982
+sg17759
+I3
+sg17760
+I01
+sg17761
+S'0103140c6243da055b61f6bcbcb3b742'
+p17983
+sg17763
+S'1073165358'
+p17984
+sS'Surface'
+p17985
+F100
+sg17786
+V4
+sg17768
+S'http://www.leboncoin.fr/locations/1073165358.htm?ca=12_s'
+p17986
+sS'Ges'
+p17987
+VVierge
+p17988
+sg17790
+I01
+sS'TypeDeBien'
+p17989
+VAppartement
+p17990
+sg17772
+V23/01/17, 23:20
+p17991
+sS'ClasseEnergie'
+p17992
+VVierge
+p17993
+sa(dp17994
+S'LoyerMensuel'
+p17995
+F1300
+sS'Ville'
+p17996
+VParis 75013
+p17997
+sg17754
+I01
+sS'Description'
+p17998
+VLoue appartement meublé de 40 m2 au 4\u010dme étage avec ascenseur, au pied du métro Maison Blanche (ligne 7), proche de toutes commodités. Tr\u010ds fonctionnel. Entrée ouverte sur un séjour donnant sur rue (petit balcon). Canapé convertible en cuire. Table relevable et extensible. Une petite chambre (chambre bébé pouvant se transformer en bureau) et une chambre donnant sur rue (balcon) avec lit (160 cm) et armoires. La cuisine est bien équipée (lave linge, lave vaisselle, réfrigérateur, plaque de cuisson par induction, micro-onde, four). Salle de bain (WC, baignoire, chauffe serviette électrique, ballon d'eau chaude). Plusieurs rangements. Double vitrage. Chauffage collectif inclus dans les charges. Libre de suite. Merci de me contacter uniquement par mail.
+p17999
+sg17757
+S'Appartement meuble au pied du metro Maison Blanche'
+p18000
+sg17759
+I13
+sg17760
+I00
+sg17761
+S'4d67412fb0790d5e12df4fc7ae3ea0d3'
+p18001
+sg17763
+S'1082901337'
+p18002
+sS'Surface'
+p18003
+F40
+sg17786
+V3
+sg17768
+S'http://www.leboncoin.fr/locations/1082901337.htm?ca=12_s'
+p18004
+sS'Ges'
+p18005
+VE (de 36 à 55)
+p18006
+sg17790
+I01
+sS'TypeDeBien'
+p18007
+VAppartement
+p18008
+sg17772
+V23/01/17, 23:16
+p18009
+sS'ClasseEnergie'
+p18010
+VE (de 231 à 330)
+p18011
+sa(dp18012
+S'LoyerMensuel'
+p18013
+F1390
+sS'Ville'
+p18014
+VParis 75009
+p18015
+sg17754
+I01
+sS'Description'
+p18016
+VAu 26 rue de Douai dans le 9e. Tr\u010ds beau duplex de 47 m2, tr\u010ds lumineux (plein sud) avec balcon. 5e étage RDC : Salon/SAM, Cuisine ouverte (plan bar) 1er étage: Chambre , Salle de bains
+p18017
+sg17757
+S'Duplex 47m2 avec balcon - Paris 9e'
+p18018
+sg17759
+I9
+sg17760
+I00
+sg17761
+S'7211f989d854f5f70351f7afc9a6e79b'
+p18019
+sg17763
+S'1082899493'
+p18020
+sS'Surface'
+p18021
+F47
+sg17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1082899493.htm?ca=12_s'
+p18022
+sS'Ges'
+p18023
+VVierge
+p18024
+sg17790
+I00
+sS'TypeDeBien'
+p18025
+VAppartement
+p18026
+sg17772
+V23/01/17, 23:09
+p18027
+sS'ClasseEnergie'
+p18028
+VVierge
+p18029
+sa(dp18030
+S'LoyerMensuel'
+p18031
+F1250
+sS'Ville'
+p18032
+VParis 75014
+p18033
+sg17754
+I01
+sS'Description'
+p18034
+VMagnifique studio repeint au pied des métros "Edgar Quinet" et "Montparnasse", limite 6\u010dme arrondissement. 12\u010dme et dernier étage (2 ascenseurs). Vue époustouflante sur la Tour Eiffel, l'Arc de Triomphe et les Invalides. Exposition Ouest. 30m2. Résidence de standing avec gardien, digocode et jardin interieur. Entrées : 'Boulevard Edgar Quinet' et 'Rue du départ'. Double vitrage Lorenove. Plaque induction, micro-ondes, lave-linge neuf. Télévision neuve. 2 armoires. Salle de bains avec douche. Bail courte et moyenne durée. Disponible immédiatement. Dossier complet exigé. Loyer : 1250€ charges comprises (sauf EDF et Internet).
+p18035
+sg17757
+S'Studio (Montparnasse/Edgar Quinet) vue Tour Eiffel'
+p18036
+sg17759
+I14
+sg17760
+I00
+sg17761
+S'2bf0ee1af55008d3ae0ab69d8b881ab3'
+p18037
+sg17763
+S'1082896819'
+p18038
+sS'Surface'
+p18039
+F30
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082896819.htm?ca=12_s'
+p18040
+sS'Ges'
+p18041
+VD (de 21 à 35)
+p18042
+sg17790
+I01
+sS'TypeDeBien'
+p18043
+VAppartement
+p18044
+sg17772
+V23/01/17, 22:59
+p18045
+sS'ClasseEnergie'
+p18046
+VB (de 51 à 90)
+p18047
+sa(dp18048
+S'LoyerMensuel'
+p18049
+F820
+sS'Ville'
+p18050
+VParis 75015
+p18051
+sg17754
+I01
+sS'Description'
+p18052
+VPARIS 15E-métro Vaugirard- studio refait neuf, tr\u010ds calme sur jardin comprenant une entrée - une pi\u010dce principale - une cuisine équipée - une salle d'eau/wc.Loyer 760euros + charges 60euros. Chauffage eau chaude individuel électrique.
+p18053
+sg17757
+S'T1 refait neuf tres calme sur jardin'
+p18054
+sg17759
+I15
+sg17760
+I00
+sg17761
+S'1fdbbf1401d1a197f98d6001b014d9f3'
+p18055
+sg17763
+S'1082895462'
+p18056
+sS'Surface'
+p18057
+F28
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082895462.htm?ca=12_s'
+p18058
+sS'Ges'
+p18059
+VE (de 36 à 55)
+p18060
+sg17790
+I01
+sS'TypeDeBien'
+p18061
+VAppartement
+p18062
+sg17772
+V23/01/17, 22:54
+p18063
+sS'ClasseEnergie'
+p18064
+VE (de 231 à 330)
+p18065
+sa(dp18066
+S'LoyerMensuel'
+p18067
+F1300
+sS'Ville'
+p18068
+VParis 75002
+p18069
+sg17754
+I01
+sS'Description'
+p18070
+VParticuliers loue charmant T2 vide. Ambiance calme et cosy. Proche de la rue Montmartre, juste derri\u010dre la place de la Bourse au calme. 38m\u02db au sol  (41m\u02db carrez). Chauffage au gaz indiv. Tomettes, poutres, cheminée, beaucoup de charme au calme, au 5e et dernier étage sans ascenseur. Fenetre dans chaque piéce. Séjour et chambre avec grand placard au Sud et fen\u0119tres PVC oscillo-battantes. Cuisine sur-mesure toute équipée: petit bar, four électrique multifonctions, plaques vitrocéramiques, nbx rangements, lave-vaisselle, grand frigo/congélateur. Une SdB avec fen\u0119tre, baignoire d'angle et WC séparés. Plus de details avec recherche google louecharmantt2paris. Disponible \u0155 partir de début février. Visites prévues le samedi 4 février. Plus d'informations: contact@serranou.fr ou par téléphone. Pas d'agence. Merci.
+p18071
+sg17757
+S'Charmant T2 a louer Quartier Bourse'
+p18072
+sg17759
+I2
+sg17760
+I00
+sg17761
+S'beda0a2a7b9e6d59321f2598e9221589'
+p18073
+sg17763
+S'1082891482'
+p18074
+sS'Surface'
+p18075
+F38
+sg17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1082891482.htm?ca=12_s'
+p18076
+sS'Ges'
+p18077
+VNon renseigné
+p18078
+sg17790
+I00
+sS'TypeDeBien'
+p18079
+VAppartement
+p18080
+sg17772
+V23/01/17, 22:41
+p18081
+sS'ClasseEnergie'
+p18082
+VNon renseigné
+p18083
+sa(dp18084
+S'LoyerMensuel'
+p18085
+F1340
+sS'Ville'
+p18086
+VParis 75015
+p18087
+sg17754
+I01
+sS'Description'
+p18088
+VAppartement 2 pi\u010dces + petite pi\u010dce supplémentaire au 5\u010dme étage avec ascenseur, calme sur cour, rue Bargue
+p18089
+sg17757
+S'Appartement Paris 15eme'
+p18090
+sg17759
+I15
+sg17760
+I00
+sg17761
+S'19caf3e2d716ca72d4549b24f63e7f92'
+p18091
+sg17763
+S'1082879316'
+p18092
+sS'Surface'
+p18093
+F45
+sg17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1082879316.htm?ca=12_s'
+p18094
+sS'Ges'
+p18095
+VF (de 56 à 80)
+p18096
+sg17790
+I00
+sS'TypeDeBien'
+p18097
+VAppartement
+p18098
+sg17772
+V23/01/17, 22:06
+p18099
+sS'ClasseEnergie'
+p18100
+VE (de 231 à 330)
+p18101
+sa(dp18102
+S'LoyerMensuel'
+p18103
+F1800
+sS'Ville'
+p18104
+VParis 75014
+p18105
+sg17754
+I01
+sS'Description'
+p18106
+VBonjours, Je mets en location un appartement de 3 pi\u010dces , au cinqui\u010dme étage d'un immeuble calme  et sécurisé avec gardien, digicode et ascenseur, confortablement meublé, et joliment décoré, calme, idéalement situé \u0155 moins de 5 min \u0155 pied du métro( 7 Mairie du 14eme). Il peut accueillir jusqu'\u0155 4 personnes. Idéale pour couple avec ou sans enfants. Appartement meublé équipements: cuisine équipé, Lave-vaisselle, Lave-linge, réfrigérateur, congélateur, wifi , etc.. Loyer : 1650e + 150e de charge c'est a dire entretient des parties communes ascenseurs couloirs ect... Personnes non sérieuses s'abstenir merci. cdt
+p18107
+sg17757
+S'F3 spacieux lumineux avec grand salon'
+p18108
+sg17759
+I14
+sg17760
+I00
+sg17761
+S'453b03a0a947b8ca9d420d0da457d58f'
+p18109
+sg17763
+S'1082870616'
+p18110
+sS'Surface'
+p18111
+F54
+sg17786
+V3
+sg17768
+S'http://www.leboncoin.fr/locations/1082870616.htm?ca=12_s'
+p18112
+sS'Ges'
+p18113
+VC (de 11 à 20)
+p18114
+sg17790
+I01
+sS'TypeDeBien'
+p18115
+VAppartement
+p18116
+sg17772
+V23/01/17, 21:45
+p18117
+sS'ClasseEnergie'
+p18118
+VB (de 51 à 90)
+p18119
+sa(dp18120
+g17757
+S'Location Appartement 2 pieces meuble*MONTMARTRE'
+p18121
+sg17768
+S'http://www.leboncoin.fr/locations/1074343719.htm?ca=12_s'
+p18122
+sg17760
+I00
+sg17761
+S'2d869e342790e63f4eb24fa90665251f'
+p18123
+sg17763
+S'1074343719'
+p18124
+sg17772
+V23/01/17, 21:24
+p18125
+sa(dp18126
+S'LoyerMensuel'
+p18127
+F850
+sS'Ville'
+p18128
+VParis 75018
+p18129
+sg17754
+I01
+sS'Description'
+p18130
+VStudio meublé 25m2 sur cours 3eme étage sans ascenseur 4 fen\u0119tres double vitrage avec vue dégagée dont 2 portes-fen\u0119tres sur un balconnet (1m2) parquet au sol se compose d'un couloir avec d'un côté salle d'eau avec wc saniboyeur de l'autre côté une grande pi\u010dce \u0155 vivre avec cuisine équipée meubles : lit 2 places 140x200 grande armoire avec penderies et étag\u010dres table haute avec 4 tabourets petit frigo four / fourmicro-onde machine a laver grande capacité séchante un peu de vaisselles Attention certains meubles sur les photos sont \u0155 la locataire actuelle. Plus de photos sur demande situation géographique : au pied du metro guy moquet L13 et bus 81 a 7-10 min a pied de la ligne 12 - bus 95 et 80 15 min de la place clichy nombreux commerces \u0155 proximité loyer 727€ +123€ charges disponible le samedi 4 février visites le 4/02 avec validation au préalable du dossier puis signature du bail le 5/02 garants obligatoires
+p18131
+sg17757
+S'LOCATION STUDIO 25m2 PARIS 18EME GUY MOQUET'
+p18132
+sg17759
+I18
+sg17760
+I01
+sg17761
+S'7022bf1f360569c081f84faffe43b16a'
+p18133
+sg17763
+S'1082860864'
+p18134
+sS'Surface'
+p18135
+F25
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082860864.htm?ca=12_s'
+p18136
+sS'Ges'
+p18137
+VNon renseigné
+p18138
+sg17790
+I01
+sS'TypeDeBien'
+p18139
+VAppartement
+p18140
+sg17772
+V23/01/17, 21:23
+p18141
+sS'ClasseEnergie'
+p18142
+VNon renseigné
+p18143
+sa(dp18144
+S'LoyerMensuel'
+p18145
+F1180
+sS'Ville'
+p18146
+VParis 75015
+p18147
+sg17754
+I01
+sS'Description'
+p18148
+VBeau studio de 40m2 \u0155 louer De la verdure et du calme en plein cœur du 15\u010dme arr. de Paris. Tr\u010ds proche des transports et des commerces. Salle de bain - Jardinet \u0155 usage privatif - belle cave - Gardienne - Digicode. Loyer de 1100€ + 80€ /mois. Libre le 11 février Photos et informations sur demande.
+p18149
+sg17757
+S'40m2 avec jardinet privatif'
+p18150
+sg17759
+I15
+sg17760
+I00
+sg17761
+S'1025816ec1b4274bdb6207b7a1a0e030'
+p18151
+sg17763
+S'1082859135'
+p18152
+sS'Surface'
+p18153
+F40
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082859135.htm?ca=12_s'
+p18154
+sS'Ges'
+p18155
+VNon renseigné
+p18156
+sg17790
+I00
+sS'TypeDeBien'
+p18157
+VAppartement
+p18158
+sg17772
+V23/01/17, 21:19
+p18159
+sS'ClasseEnergie'
+p18160
+VNon renseigné
+p18161
+sa(dp18162
+S'LoyerMensuel'
+p18163
+F900
+sS'Ville'
+p18164
+VParis 75015
+p18165
+sg17754
+I01
+sS'Description'
+p18166
+VCalme et joli studio dans le 15e, rue de la Croix Nivert (2mins \u0155 pied du Metro Boucicaut, 5mins \u0155 pied du Metro Convention). 4e étage avec ascenceur. Le studio est non-meublé, 30m\u02db comprenant une petite entrée, une pi\u010dce principale, une cuisine en alcôve, une salle de bain séparée avec douche et un balcon avec vue dégagée. Parquet au sol, chauffage et eau chaude collectifs, bonne isolation des murs. Tr\u010ds bonne condition générale. Immeuble: Bon standing, bien entretenu avec gardien. Tr\u010ds calme. Quartier: bien desservi, beaucoup de magasins et restaurants. Loyer: 900 euros/mois, toutes charges comprises.
+p18167
+sg17757
+S'Calme et joli studio avec balcon, 30m2 Paris 15e'
+p18168
+sg17759
+I15
+sg17760
+I00
+sg17761
+S'eac3acd0dac1d3454ce2a79c9a53ae26'
+p18169
+sg17763
+S'1082853262'
+p18170
+sS'Surface'
+p18171
+F30
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082853262.htm?ca=12_s'
+p18172
+sS'Ges'
+p18173
+VC (de 11 à 20)
+p18174
+sg17790
+I00
+sS'TypeDeBien'
+p18175
+VAppartement
+p18176
+sg17772
+V23/01/17, 21:06
+p18177
+sS'ClasseEnergie'
+p18178
+VC (de 91 à 150)
+p18179
+sa(dp18180
+S'LoyerMensuel'
+p18181
+F70
+sS'Ville'
+p18182
+VParis 75003
+p18183
+sg17754
+I01
+sS'Description'
+p18184
+VLocation courte durée d'un appartement entier a partir du mars 2017 L'appartement se situe \u0155 3eme arrondissement de Paris dans un quartier tr\u010ds animé. Il est \u0155 côté de la station métro ligne 8 saint Sébastien Froissart et fille du calvaire. L'appartement est composé d'un salon, d'une chambre, d'une cuisine, d'une salle de bain et un WC séparé. Le prix est de 70 Euro(s) par nuit.
+p18185
+sg17757
+S'Appartement 2 pieces au Marais'
+p18186
+sg17759
+I3
+sg17760
+I00
+sg17761
+S'8185ddb648a859a00c47d8199384e53f'
+p18187
+sg17763
+S'1082850055'
+p18188
+sS'Surface'
+p18189
+F42
+sg17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1082850055.htm?ca=12_s'
+p18190
+sS'Ges'
+p18191
+VNon renseigné
+p18192
+sg17790
+I01
+sS'TypeDeBien'
+p18193
+VAppartement
+p18194
+sg17772
+V23/01/17, 20:59
+p18195
+sS'ClasseEnergie'
+p18196
+VNon renseigné
+p18197
+sa(dp18198
+S'LoyerMensuel'
+p18199
+F1150
+sS'Ville'
+p18200
+VParis 75019
+p18201
+sg17754
+I01
+sS'Description'
+p18202
+V- Charmant  studio meublé refait \u0155 neuf - Immeuble de standing au bord du canal de l'Ourcq avec gardiens et interphones, ascenseur, 4\u010d étage.Eau chaude et chauffage compris dans les charges.Machine \u0155 laver,télévision grand écran,fibre optique installée.Vous pouvez choisir votre opérateur. - Balcon de 4 m2 au calme exposé sud avec grande baie vitrée -Tout équipé du linge de maison aux couverts si souhaité. Un vrai lit 140 relevable dans le meuble bleu qui vous lib\u010dre la pi\u010dce \u0155 vivre dans la journée + 2 couchages suplémentaires dans le canapé pour pouvoir recevoir famille ou amis. vous n'avez qu'\u0155 poser vos valises - Quartier bobo tr\u010ds agréable entouré de nombreux bars et restaurants ,\u0155 2 mn du Parc de la Villette (cité des sciences),Zenit,et philarmonium, \u0155 10 mn \u0155 pieds de 16 salles de cinéma UGC et 12 salles MK2 et 15 mn du Parc des Buttes Chaumont \u0155 pieds. - A 10 minutes de la station de métro Crimée ligne 7 ou Ourcq ligne 5
+p18203
+sg17757
+S'Meuble refait a neuf balcon sur jardin'
+p18204
+sg17759
+I19
+sg17760
+I00
+sg17761
+S'28bde420421e95cf915664e2ab345fa3'
+p18205
+sg17763
+S'1074631327'
+p18206
+sS'Surface'
+p18207
+F28
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1074631327.htm?ca=12_s'
+p18208
+sS'Ges'
+p18209
+VVierge
+p18210
+sg17790
+I01
+sS'TypeDeBien'
+p18211
+VAppartement
+p18212
+sg17772
+V23/01/17, 20:37
+p18213
+sS'ClasseEnergie'
+p18214
+VVierge
+p18215
+sa(dp18216
+S'LoyerMensuel'
+p18217
+F990
+sS'Ville'
+p18218
+VParis 75009
+p18219
+sg17754
+I01
+sS'Description'
+p18220
+VT1 de 26m\u02db meublé \u0155 Paris 9\u010dme. Petit salon avec un coin cuisine équipé. Chambre avec armoire de rangement et lit 2 places, salle de douche et wc séparé. Immeuble donnant sur cour, donc tr\u010ds calme, au 1er étage. A quelques minutes \u0155 pied de la ligne 7 métro Peltier et  de la ligne 9 métro Richelieu Drouot. Le loyer comprend les charges mensuelles. Référence exigées et garant demandé.
+p18221
+sg17757
+S'T1 Paris 9eme Opera'
+p18222
+sg17759
+I9
+sg17760
+I00
+sg17761
+S'e6ad274c032742c406ce745dfe4e7a99'
+p18223
+sg17763
+S'1082836265'
+p18224
+sS'Surface'
+p18225
+F26
+sg17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1082836265.htm?ca=12_s'
+p18226
+sS'Ges'
+p18227
+VNon renseigné
+p18228
+sg17790
+I01
+sS'TypeDeBien'
+p18229
+VAppartement
+p18230
+sg17772
+V23/01/17, 20:24
+p18231
+sS'ClasseEnergie'
+p18232
+VNon renseigné
+p18233
+sa(dp18234
+S'LoyerMensuel'
+p18235
+F880
+sS'Ville'
+p18236
+VParis 75018
+p18237
+sg17754
+I01
+sS'Description'
+p18238
+VGrand studio de 25 m2 au 4e étage, au pied du métro Marx Dormoy, au cœur de toutes commodités (métro, tous commerces - Monoprix, Franprix,  La Poste, McDo), \u0155 2 pas du quartier branché de la Halle Pajol avec ses bars et restau. Tr\u010ds lumineux, exposition est/ouest, tr\u010ds peu de vis \u0155 vis, refait \u0155 neuf et aux normes de sécurité en 2016. Il comprend  une entrée avec petits placards, une cuisine intégrée, ouverte sur le séjour, avec évier, 2 plaques de cuisson, hotte, réfrigérateur, four multifonctions (classique + micro-ondes), plan de repas avec 2 chaises hautes, convecteur électrique,  une salle de bain avec WC, meuble vasque, douche avec porte, lave-linge, s\u010dche-serviette électrique, un  séjour avec grand lit, table basse,  table informatique, TV, placard, radiateur électrique rayonnant. Doubles vitrages, volet roulant électrique, porte blindée, digicode. Justificatifs demandés: pi\u010dce d'identité, certificat de scolarité pour étudiant (bail 9 mois), justificatif de domicile, 3 derniers bulletins de paye/dernier avis d'imposition justifiant des conditions de solvabilité requises (trois fois le loyer), justificatif de contrat de travail \u0155 durée indéterminée. Pour étudiant, caution d'un tiers présentant les justificatifs indiqués. Loyer : 880 €/mois charges générales immeuble comprises (40 €), eau facturée en sus au réel (compteur individuel). Caution : 840 €. Pas d'honoraires d'agence. Visites samedi 28/01 de 11h \u0155 18h. RDV par téléphone, SMS (06 80 07 52 76) ou mail UNIQUEMENT \u0155 l'adresse colette.nicolay7@gmail.com. Date de disponibilité \u0155 convenir. Autres photos de l'appartement disponibles sur demande.
+p18239
+sg17757
+S'GD STUDIO MEUBLE IDEAL ETUDIANT/JEUNE COUPLE 18e'
+p18240
+sg17759
+I18
+sg17760
+I01
+sg17761
+S'cbdaa68f8be266f57b34e62c1b9deb4a'
+p18241
+sg17763
+S'1082836090'
+p18242
+sS'Surface'
+p18243
+F25
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082836090.htm?ca=12_s'
+p18244
+sS'Ges'
+p18245
+VNon renseigné
+p18246
+sg17790
+I01
+sS'TypeDeBien'
+p18247
+VAppartement
+p18248
+sg17772
+V23/01/17, 20:24
+p18249
+sS'ClasseEnergie'
+p18250
+VNon renseigné
+p18251
+sa(dp18252
+S'LoyerMensuel'
+p18253
+F700
+sS'Ville'
+p18254
+VParis 75018
+p18255
+sg17754
+I01
+sS'Description'
+p18256
+VLocation courte période. Jusqu'au 16/02 Tr\u010ds beau studio avec parquet, grandes fen\u0119tres situé rue Feutrier Internet/ chauffage / eau chaude / tout inclu Loyer jusqu'au 16/02 : 700Euro(s)
+p18257
+sg17757
+S"Location jusqu'au 16 fevrier studio Paris"
+p18258
+sg17759
+I18
+sg17760
+I00
+sg17761
+S'8045351f19cd785084f9b70cbdc212b5'
+p18259
+sg17763
+S'1082834212'
+p18260
+sS'Surface'
+p18261
+F25
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082834212.htm?ca=12_s'
+p18262
+sS'Ges'
+p18263
+VNon renseigné
+p18264
+sg17790
+I01
+sS'TypeDeBien'
+p18265
+VAppartement
+p18266
+sg17772
+V23/01/17, 20:19
+p18267
+sS'ClasseEnergie'
+p18268
+VNon renseigné
+p18269
+sa(dp18270
+S'LoyerMensuel'
+p18271
+F1250
+sS'Ville'
+p18272
+VParis 75004
+p18273
+sg17754
+I01
+sS'Description'
+p18274
+VParis centre, 4\u010dme arrondissement, au coeur du Marais. Métros : ST PAUL et Hôtel de Ville (ligne métro 1 et 11) Nombreux arr\u0119ts de bus, ainsi que station Vélib Adresse 11 rue ferdinand Duval Charmant appartement 2 pi\u010dces meublé, au 5e étage, se composant de : - Salon, avec canapé-lit  table \u0155 manger - Cuisine équipée (four, frigo, deux plaques vitrocéramiques, vaisselle compl\u010dte) - Chambre séparée au calme sur courette arborée, avec lit double  armoires de rangement, et - Salle de bain avec baignoire et Machine \u0155 laver - WC L'appartement est tr\u010ds lumineux, parquet,charme de l'ancien. Bel immeuble, avec digicodes et parties communes ravalées récemment, cour arborée; ascenseur. Quartier tr\u010ds agréable, proche de toutes commodités (boulangerie, supermarché, cafés, restaurants, marché...) Disponible .  Photos envoyées sur demande. Loyer mensuel 1250 €+40 € charges 0618204879
+p18275
+sg17757
+S'Location studio courte ou longue duree Le Marais'
+p18276
+sg17759
+I4
+sg17760
+I00
+sg17761
+S'6ee63849c421b2bb2e7bbffc3c12cdb2'
+p18277
+sg17763
+S'1082832214'
+p18278
+sS'Surface'
+p18279
+F33
+sg17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1082832214.htm?ca=12_s'
+p18280
+sS'Ges'
+p18281
+VB (de 6 à 10)
+p18282
+sg17790
+I01
+sS'TypeDeBien'
+p18283
+VAppartement
+p18284
+sg17772
+V23/01/17, 20:15
+p18285
+sS'ClasseEnergie'
+p18286
+VB (de 51 à 90)
+p18287
+sa(dp18288
+S'LoyerMensuel'
+p18289
+F900
+sS'Ville'
+p18290
+VParis 75010
+p18291
+sg17754
+I01
+sS'Description'
+p18292
+VJolie 2 pi\u010dces, calme et lumineuse, idéal pour 1 personne ou un couple, dans un quartier tr\u010ds animé et populaire. Proche des stations métro. tout confort, WiFi, machine \u0155 laver, etc.
+p18293
+sg17757
+S'Sous-Location en mai/juin 2017, Paris 10eme'
+p18294
+sg17759
+I10
+sg17760
+I00
+sg17761
+S'bcf377ffbc9e5d1b03906c999fae1d81'
+p18295
+sg17763
+S'1082829442'
+p18296
+sS'Surface'
+p18297
+F65
+sg17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1082829442.htm?ca=12_s'
+p18298
+sS'Ges'
+p18299
+VD (de 21 à 35)
+p18300
+sg17790
+I01
+sS'TypeDeBien'
+p18301
+VAppartement
+p18302
+sg17772
+V23/01/17, 20:08
+p18303
+sS'ClasseEnergie'
+p18304
+VE (de 231 à 330)
+p18305
+sa(dp18306
+S'LoyerMensuel'
+p18307
+F1140
+sS'Ville'
+p18308
+VParis 75009
+p18309
+sg17754
+I01
+sS'Description'
+p18310
+VParis 9 Appartement au rdc sur rue , meublé divisé en deux piéces de 26,34m2 , cuisine equipée séparé, salle de bains avec baignoire et wc. Fenetres doubles vitrages, grillage de securité , porte blindée, exterieur digicode. A 250 m du metro grands boulevards, metro cadet a 284m . Pres de commerces , restaurants, follies bérgéres ,théatres, conservatoire . (Possibilité de location aux professions libérales, étudiantes, salariés, ou personnes agées facile d'acc\u010ds)
+p18311
+sg17757
+S'Studio Paris 9'
+p18312
+sg17759
+I9
+sg17760
+I00
+sg17761
+S'7f23631fe71b0f6b0a785fe2ac950fdd'
+p18313
+sg17763
+S'1055507663'
+p18314
+sS'Surface'
+p18315
+F27
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1055507663.htm?ca=12_s'
+p18316
+sS'Ges'
+p18317
+VD (de 21 à 35)
+p18318
+sg17790
+I01
+sS'TypeDeBien'
+p18319
+VAppartement
+p18320
+sg17772
+V23/01/17, 20:02
+p18321
+sS'ClasseEnergie'
+p18322
+VE (de 231 à 330)
+p18323
+sa(dp18324
+S'LoyerMensuel'
+p18325
+F1200
+sS'Ville'
+p18326
+VParis 75016
+p18327
+sg17754
+I01
+sS'Description'
+p18328
+VGrand studio situé Avenue Victor Hugo PARIS XVIéme au 4\u010dme étage d'un immeuble de standing sécurisé avec gardienne, proche écoles, commerces et transports Orientation sud est avec balcon donnant sur jardin, tr\u010ds calme et tr\u010ds lumineux Entrée, salle de bains, grands rangements, cuisine américaine équipée et grande pi\u010dce \u0155 vivre avec canapé lit en L Chauffage collectif et charges comprises
+p18329
+sg17757
+S'Grand Studio Avenue Victor Hugo'
+p18330
+sg17759
+I16
+sg17760
+I00
+sg17761
+S'c8be3b2c1bab6cbbe30054cf2888ea7d'
+p18331
+sg17763
+S'1082825506'
+p18332
+sS'Surface'
+p18333
+F33
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082825506.htm?ca=12_s'
+p18334
+sS'Ges'
+p18335
+VE (de 36 à 55)
+p18336
+sg17790
+I01
+sS'TypeDeBien'
+p18337
+VAppartement
+p18338
+sg17772
+V23/01/17, 19:59
+p18339
+sS'ClasseEnergie'
+p18340
+VE (de 231 à 330)
+p18341
+sa(dp18342
+S'LoyerMensuel'
+p18343
+F2280
+sS'Ville'
+p18344
+VParis 75012
+p18345
+sg17754
+I01
+sS'Description'
+p18346
+VTr\u010ds agréable appartement de 75m2 ensoleillé avec de grandes baies, situé dans le 12\u010dme, avec jardin privatif de 60m2 p. Cet appartement traversant, composé d'une cuisine semi équipée (plaques+hotte), un wc, un double séjour, 2 chambres et une salle de bain avec baignoire et douche,bénéficie de nombreux rangements, d'une place de parking en sous sol fermé et d'un calme absolu. En effet, il se situe dans une résidence donnant sur une rue tr\u010ds peu passante, sans vis \u0155 vis, \u0155 l'intérieur de laquelle vous profiterez d'un parc arboré.Le sol de l'appartement est en parquet. Vous \u0119tes \u0155 proximité du métro (porte dorée), du tramway,de commerces,cr\u010dche et écoles.Disponible d\u010ds le 15/02/17.Agence s'abstenir. Pas de co location.
+p18347
+sg17757
+S'Appartement t3/4 avec jardin privatif plein sud'
+p18348
+sg17759
+I12
+sg17760
+I00
+sg17761
+S'2ca091f1353f9cda3063a9921bb94585'
+p18349
+sg17763
+S'1082824698'
+p18350
+sS'Surface'
+p18351
+F75
+sg17786
+V4
+sg17768
+S'http://www.leboncoin.fr/locations/1082824698.htm?ca=12_s'
+p18352
+sS'Ges'
+p18353
+VD (de 21 à 35)
+p18354
+sg17790
+I00
+sS'TypeDeBien'
+p18355
+VAppartement
+p18356
+sg17772
+V23/01/17, 19:57
+p18357
+sS'ClasseEnergie'
+p18358
+VD (de 151 à 230)
+p18359
+sa(dp18360
+S'LoyerMensuel'
+p18361
+F2800
+sS'Ville'
+p18362
+VParis 75005
+p18363
+sg17754
+I01
+sS'Description'
+p18364
+VAppartement rénové - NOTRE DAME Appartement rare  dans tr\u010ds bel immeuble 18\u010dme avec vue sur Notre Dame! T3 de 84,5m\u02db situé au 1er étage avec 2 entrées (ascenseur ) exposé est ouest, au clame et donnant sur place arborée. Rénové sous la surveillance des architectes des monuments historiques, avec poutres apparentes et mur en pierre de taille. Cuisine américaine aménagée et semi équipée (lave vaisselle, four, plaques et hotte) sur pi\u010dce \u0155 vivre de 40m\u02db, 2 chambres avec placards, salle d'eau avec douche \u0155 l'italienne (branchement lave linge) et WC séparé. Eau chaude collective (gaz) et chauffage individuel électrique.2800€ PLUS 100€ de charges  Bail de droit commun \u0155 usage d'habitation Privilégié. Honoraires 3500€ TTC Merci de contacter le 06.64.73.87.54. . Référence annonce : 3205052 Honoraires : 3500 € Dépôt de garantie : 8400 €
+p18365
+sS'Reference'
+p18366
+V3205052
+p18367
+sg17757
+S'Appartement 3 pieces 84 m2'
+p18368
+sg17759
+I5
+sg17760
+I00
+sg17761
+S'1a538f36d90bcb89f06cc5d5d9952900'
+p18369
+sg17763
+S'1082937040'
+p18370
+sS'Surface'
+p18371
+F84
+sS'Ges'
+p18372
+VC (de 11 à 20)
+p18373
+sg17768
+S'http://www.leboncoin.fr/locations/1082937040.htm?ca=12_s'
+p18374
+sg17790
+I00
+sS'TypeDeBien'
+p18375
+VAppartement
+p18376
+sg17772
+V23/01/17, 19:52
+p18377
+sS'ClasseEnergie'
+p18378
+VD (de 151 à 230)
+p18379
+sg17786
+V3
+sa(dp18380
+S'LoyerMensuel'
+p18381
+F1750
+sS'Ville'
+p18382
+VParis 75006
+p18383
+sg17754
+I01
+sS'Description'
+p18384
+V6\u010dme étage, ascenseur, traversant Est-Ouest, tr\u010ds lumineux,parquet, séjour beau volume,avec mezzanine, 2 balcons vue sur BonMarché, chambre et salle de bain sur cour, vue tour Effel. WC indépendant. Cuisine, evier, plaque cuisson et hotte, frigidaire, emplacements four et LV. Digicode. Metro Sevres-Babylonne 2mn, St Placide 3mn, Montparnasse 5mn \u0155 pied. Station Velib au pied de l'immeuble.
+p18385
+sg17757
+S'Charmant appartement rue St Placide Paris 75006'
+p18386
+sg17759
+I6
+sg17760
+I00
+sg17761
+S'61785bc67504b3bf1e4aa52e4bc8d386'
+p18387
+sg17763
+S'1082820407'
+p18388
+sS'Surface'
+p18389
+F50
+sg17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1082820407.htm?ca=12_s'
+p18390
+sS'Ges'
+p18391
+VA (moins de 5)
+p18392
+sg17790
+I00
+sS'TypeDeBien'
+p18393
+VAppartement
+p18394
+sg17772
+V23/01/17, 19:48
+p18395
+sS'ClasseEnergie'
+p18396
+VD (de 151 à 230)
+p18397
+sa(dp18398
+S'LoyerMensuel'
+p18399
+F1150
+sS'Ville'
+p18400
+VParis 75012
+p18401
+sg17754
+I01
+sS'Description'
+p18402
+VMétro Daumesnil/Michel Bizot. Au 4e, ascenseur. 2 pi\u010dces meublé, bon état général, 38 m2, clair : entrée, séjour, parquet, cuisine séparée équipée (four, réfrigérateur et plaques), salle d'eau avec lave-linge. Chauffage au gaz, double vitrage. Libre de suite. 1.150 E/mois charges comprises. Caution solidaire demandée. 06.58.22.92.33.
+p18403
+sg17757
+S'Location 2P meuble Paris 12e'
+p18404
+sg17759
+I12
+sg17760
+I00
+sg17761
+S'e79c38d015fc3993ebcf7f1bfdfe4361'
+p18405
+sg17763
+S'1082817701'
+p18406
+sS'Surface'
+p18407
+F37
+sg17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1082817701.htm?ca=12_s'
+p18408
+sS'Ges'
+p18409
+VNon renseigné
+p18410
+sg17790
+I01
+sS'TypeDeBien'
+p18411
+VAppartement
+p18412
+sg17772
+V23/01/17, 19:42
+p18413
+sS'ClasseEnergie'
+p18414
+VNon renseigné
+p18415
+sa(dp18416
+S'LoyerMensuel'
+p18417
+F765
+sS'Ville'
+p18418
+VParis 75018
+p18419
+sg17754
+I01
+sS'Description'
+p18420
+VRue Boinod Location : studio 26 m2 dans immeuble ancien sécurisé au 2\u010dme étage métro Marcadet parfait état - clair et calme Pi\u010dce principale avec coin cuisine équipée (four, frigo plaques de nombreux rangements), salle d'eau et wc chauffage individuel électrique Libre le 15/2 Références demandées
+p18421
+sg17757
+S'Location studio 26m2 - Paris 18e'
+p18422
+sg17759
+I18
+sg17760
+I00
+sg17761
+S'e203b375ffe3e8eca1e47aa5518067b2'
+p18423
+sg17763
+S'1082809833'
+p18424
+sS'Surface'
+p18425
+F26
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082809833.htm?ca=12_s'
+p18426
+sS'Ges'
+p18427
+VC (de 11 à 20)
+p18428
+sg17790
+I00
+sS'TypeDeBien'
+p18429
+VAppartement
+p18430
+sg17772
+V23/01/17, 19:28
+p18431
+sS'ClasseEnergie'
+p18432
+VC (de 91 à 150)
+p18433
+sa(dp18434
+S'LoyerMensuel'
+p18435
+F1450
+sS'Ville'
+p18436
+VParis 75018
+p18437
+sg17754
+I01
+sS'Description'
+p18438
+VLocation d'un grand studio de 40 M2. \u0155 Montmartre 75018. Grande pi\u010dce de vie de 28 M2 avec acc\u010ds au jardin privatif de 40m2 enti\u010drement clos et sécurisé. Cuisine équipée, séparée de 8 M2 donnant sur le jardin Salle de douche avec WC Une entrée 1 étage avec ascenseur. Résidence de standing et sécurisée, 2 portes digicodes, porte blindée. Exposition Sud/Est Calme et proche de toutes commodités ( transports et commerce) Premier contact par SMS
+p18439
+sg17757
+S'Unique, votre jardin prive a Montmartre'
+p18440
+sg17759
+I18
+sg17760
+I00
+sg17761
+S'cacfb852e3e0682cfa215889284c6a2b'
+p18441
+sg17763
+S'1082795053'
+p18442
+sS'Surface'
+p18443
+F40
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082795053.htm?ca=12_s'
+p18444
+sS'Ges'
+p18445
+VNon renseigné
+p18446
+sg17790
+I00
+sS'TypeDeBien'
+p18447
+VAppartement
+p18448
+sg17772
+V23/01/17, 19:03
+p18449
+sS'ClasseEnergie'
+p18450
+VNon renseigné
+p18451
+sa(dp18452
+S'LoyerMensuel'
+p18453
+F900
+sS'Ville'
+p18454
+VParis 75004
+p18455
+sg17754
+I01
+sS'Description'
+p18456
+VDisponible du 10 mars au  10 mai. Je loue une chambre au coeur du marais dans un bel appartement lumineux. La chambre est meublée et l'appartement est enti\u010drement équipé. Ma colloc est une étudiante de 26 ans.
+p18457
+sg17757
+S'Chambre dans le marais'
+p18458
+sg17759
+I4
+sg17760
+I00
+sg17761
+S'212838430cd5c28a1f029d884cc3f4b3'
+p18459
+sg17763
+S'1082794357'
+p18460
+sS'Surface'
+p18461
+F55
+sg17786
+V3
+sg17768
+S'http://www.leboncoin.fr/locations/1082794357.htm?ca=12_s'
+p18462
+sS'Ges'
+p18463
+VNon renseigné
+p18464
+sg17790
+I01
+sS'TypeDeBien'
+p18465
+VAppartement
+p18466
+sg17772
+V23/01/17, 19:01
+p18467
+sS'ClasseEnergie'
+p18468
+VNon renseigné
+p18469
+sa(dp18470
+S'LoyerMensuel'
+p18471
+F850
+sS'Ville'
+p18472
+VParis 75013
+p18473
+sg17754
+I01
+sS'Description'
+p18474
+VA louer \u0155 partir du 7 février 2017 - jusqu'au fin juillet ou fin d'aout 2017 Métro "Stalingrad" dans le 10\u010dme studio meublé de 30m2 - 1er étage- balcon cuisine américaine - 2 plaques électriques - lave linge - lave vaisselle - chauffage centrale - loyer 850 euros (charge comprises) contacter par e-mail -
+p18475
+sg17757
+S'Studio a louer "Stalingrad"'
+p18476
+sg17759
+I13
+sg17760
+I00
+sg17761
+S'35d5c1762cdcf4968d89b5dffe7b4a7c'
+p18477
+sg17763
+S'1082787039'
+p18478
+sS'Surface'
+p18479
+F30
+sS'Ges'
+p18480
+VE (de 36 à 55)
+p18481
+sg17768
+S'http://www.leboncoin.fr/locations/1082787039.htm?ca=12_s'
+p18482
+sg17790
+I01
+sS'TypeDeBien'
+p18483
+VAppartement
+p18484
+sg17772
+V23/01/17, 18:49
+p18485
+sS'ClasseEnergie'
+p18486
+VD (de 151 à 230)
+p18487
+sa(dp18488
+S'LoyerMensuel'
+p18489
+F1390
+sS'Ville'
+p18490
+VParis 75006
+p18491
+sg17754
+I01
+sS'Description'
+p18492
+VParis 6éme  Appartement 2 pi\u010dces . meublé A 100 m du magasin \u0164  Le Bon Marché \u0165, des métros Saint-Placide (l. 4) et S\u010dvres-Babylone (l. 6 et 10) . A 5 mn \u0155 pied de Sciences-Po et 10 mn du Jardin du Luxembourg (pr\u010ds de la Sorbonne), de Paris 2 (Assas). Appartement 2 pi\u010dces enti\u010drement meublé, clair, agréable, donnant sur une belle cour d’époque. Pour étudiant(e)s sérieux. Toutes nationalités. Colocation possible. CAF. Loyer : 1 390 €/mois, charges comprises. Téléphone : 06.79.39.34.80. Dany (Seulement par téléphone, SMS ou message. Merci) P.S. : Autre appartement meublé 2 p \u0155 Paris, La Motte Piquet - Grenelle (pr\u010ds Champ de Mars).
+p18493
+sg17757
+S'Paris 6eme, rue Cherche Midi. appart 2 p. meuble'
+p18494
+sg17759
+I6
+sg17760
+I00
+sg17761
+S'175a1cba9897097d7056e844646da0a7'
+p18495
+sg17763
+S'1082784902'
+p18496
+sS'Surface'
+p18497
+F35
+sg17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1082784902.htm?ca=12_s'
+p18498
+sS'Ges'
+p18499
+VNon renseigné
+p18500
+sg17790
+I01
+sS'TypeDeBien'
+p18501
+VAppartement
+p18502
+sg17772
+V23/01/17, 18:46
+p18503
+sS'ClasseEnergie'
+p18504
+VNon renseigné
+p18505
+sa(dp18506
+S'LoyerMensuel'
+p18507
+F1330
+sS'Ville'
+p18508
+VParis 75009
+p18509
+sg17754
+I01
+sS'Description'
+p18510
+V\u25baMétro Cadet, bus 26, 43) : 40 m2, 4e étage et dernier étage, immeuble ancien rénové sans ascenseur, entrée, séjour avec coin repas (+ canapé-lit), 1 chambre (lit double), salle de bains avec WC, cuisine équipée (LL/S, fours) ; chauffage au gaz, mobilier moderne Habitat, placards, TV + internet inclus, bon état, parquet, clair, calme, sur cour, double vitrage, pr\u010ds tous commerces. --AUTRES APTS MEUBLES CHEZ CAPITALE PARTNERS, capitale-partners.com, pages Annonces--
+p18511
+sS'Reference'
+p18512
+Vapg
+p18513
+sg17757
+S'Agreable 2 pieces meuble, internet inclus, 9e arr'
+p18514
+sg17759
+I9
+sg17760
+I00
+sg17761
+S'523b579d28e9c80a70e2ac7e08a39e29'
+p18515
+sg17763
+S'1079514765'
+p18516
+sS'Surface'
+p18517
+F40
+sS'Ges'
+p18518
+VE (de 36 à 55)
+p18519
+sg17768
+S'http://www.leboncoin.fr/locations/1079514765.htm?ca=12_s'
+p18520
+sg17790
+I01
+sS'TypeDeBien'
+p18521
+VAppartement
+p18522
+sg17772
+V23/01/17, 18:43
+p18523
+sS'ClasseEnergie'
+p18524
+VD (de 151 à 230)
+p18525
+sg17786
+V2
+sa(dp18526
+S'LoyerMensuel'
+p18527
+F993
+sS'Ville'
+p18528
+VParis 75011
+p18529
+sg17754
+I00
+sS'Description'
+p18530
+VA 100 m du métro ledru rollin, joli 2 pi\u010dces lumineux, calme et traversant de 36 m\u02db refait \u0155 neuf l'appartement comporte un espace \u0155 vivre avec une cuisine ouverte, une salle de bain avec toilettes, une chambre avec rangements intégrés chauffage individuel électrique nadine fueri.
+p18531
+sS'Reference'
+p18532
+Vledrurollin
+p18533
+sg17757
+S'Ledrurollin'
+p18534
+sg17759
+I11
+sg17760
+I00
+sg17761
+S'ea39ea5faf90099e99d716b8bdb47137'
+p18535
+sg17763
+S'1082775098'
+p18536
+sS'Surface'
+p18537
+F36
+sS'Ges'
+p18538
+VD (de 21 à 35)
+p18539
+sg17768
+S'http://www.leboncoin.fr/locations/1082775098.htm?ca=12_s'
+p18540
+sg17790
+I00
+sS'TypeDeBien'
+p18541
+VAppartement
+p18542
+sg17772
+V23/01/17, 18:29
+p18543
+sS'ClasseEnergie'
+p18544
+VD (de 151 à 230)
+p18545
+sg17786
+V2
+sa(dp18546
+S'LoyerMensuel'
+p18547
+F1031
+sS'Ville'
+p18548
+VParis 75020
+p18549
+sg17754
+I01
+sS'Description'
+p18550
+VLoue studio de 34 m\u02db Paris 20 \u010dme proche toutes commodités (5 min \u0155 pied métro Gambetta). Calme, lumineux, 4\u010dme étage sans vis \u0155 vis direct sur cour intérieure. Rénové (parquet et peinture), chauffage collectif, cave, ascenseur Loyer 850 euros + 181 euros de charges
+p18551
+sg17757
+S'Studio 34 m2 Paris 20eme'
+p18552
+sg17759
+I20
+sg17760
+I00
+sg17761
+S'0920319c546ef859bf65d58495a2232f'
+p18553
+sg17763
+S'1082773574'
+p18554
+sS'Surface'
+p18555
+F34
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082773574.htm?ca=12_s'
+p18556
+sS'Ges'
+p18557
+VE (de 36 à 55)
+p18558
+sg17790
+I00
+sS'TypeDeBien'
+p18559
+VAppartement
+p18560
+sg17772
+V23/01/17, 18:26
+p18561
+sS'ClasseEnergie'
+p18562
+VD (de 151 à 230)
+p18563
+sa(dp18564
+S'LoyerMensuel'
+p18565
+F700
+sS'Ville'
+p18566
+VParis 75018
+p18567
+sg17754
+I01
+sS'Description'
+p18568
+VLocation courte période. Jusqu'au 16/02 Tr\u010ds beau studio avec parquet, grandes fen\u0119tres situé rue Feutrier Internet/ chauffage / eau chaude / tout inclu Loyer jusqu'au 16/02 : 700Euro(s)
+p18569
+sg17757
+S"Location jusqu'au 16 fevrier studio Paris 18"
+p18570
+sg17759
+I18
+sg17760
+I00
+sg17761
+S'594ead14ea4bd3345dac745f0029f975'
+p18571
+sg17763
+S'1082773237'
+p18572
+sS'Surface'
+p18573
+F25
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082773237.htm?ca=12_s'
+p18574
+sS'Ges'
+p18575
+VNon renseigné
+p18576
+sg17790
+I01
+sS'TypeDeBien'
+p18577
+VAppartement
+p18578
+sg17772
+V23/01/17, 18:25
+p18579
+sS'ClasseEnergie'
+p18580
+VNon renseigné
+p18581
+sa(dp18582
+S'LoyerMensuel'
+p18583
+F5097
+sS'Ville'
+p18584
+VParis 75017
+p18585
+sg17754
+I01
+sS'Description'
+p18586
+VAppartement 6 pi\u010dces 206,00 m\u02db Paris XVIIe - Rue de Legendre - Au 1er étage, dans un immeuble ancien. Appartement en tres bon état de 206 m2 comprenant : Une galerie d'entrée, un double sejour, une salle a manger, une cuisine dinatoire, 4 chambres, une salle de bain avec wc, une salle d'eau. Nombreux rangements. Une cave et un parkink completent ce bien. Gardien. Honoraires (loi de 89): 2472 € TTC. En cas de bail code civil, 10% TTC du loyer annuel hors charges Référence annonce : 179_GEN290001 Montant des charges : 597 € / mois
+p18587
+sS'Reference'
+p18588
+V179_gen290001
+p18589
+sg17757
+S'Appartement 6 pieces 206 m2'
+p18590
+sg17759
+I17
+sg17760
+I00
+sg17761
+S'b3a6df6b09980e73f0594ce57ed233dc'
+p18591
+sg17763
+S'1082937542'
+p18592
+sS'Surface'
+p18593
+F206
+sS'Ges'
+p18594
+VNon renseigné
+p18595
+sg17768
+S'http://www.leboncoin.fr/locations/1082937542.htm?ca=12_s'
+p18596
+sg17790
+I00
+sS'TypeDeBien'
+p18597
+VAppartement
+p18598
+sg17772
+V23/01/17, 18:24
+p18599
+sS'ClasseEnergie'
+p18600
+VNon renseigné
+p18601
+sg17786
+V6
+sa(dp18602
+S'LoyerMensuel'
+p18603
+F1110
+sS'Ville'
+p18604
+VParis 75014
+p18605
+sg17754
+I01
+sS'Description'
+p18606
+VEntre Alésia et Denfert Rochereau proche de toutes commodités (RER B, Métro 4 et 6, Bus 38 et 68) dans un immeuble en pierre de taille bel appartement en parfait état tr\u010ds lumineux au 6eme et dernier étage avec ascenseur se composant d'une entrée, d'une cuisine semi-équipée, d'un séjour, d'une chambre, d'une salle de bain et d'un wc séparé. Double vitrage, Chauffage individuel électrique, Digicodes Pas de colocation Loyer mensuel hors charges 1035 euros libre de suite
+p18607
+sg17757
+S'Deux pieces dans le 14eme'
+p18608
+sg17759
+I14
+sg17760
+I00
+sg17761
+S'89f7160a65a9236421e8e2648101a8aa'
+p18609
+sg17763
+S'1082766940'
+p18610
+sS'Surface'
+p18611
+F34
+sg17786
+V2
+sg17768
+S'http://www.leboncoin.fr/locations/1082766940.htm?ca=12_s'
+p18612
+sS'Ges'
+p18613
+VE (de 36 à 55)
+p18614
+sg17790
+I00
+sS'TypeDeBien'
+p18615
+VAppartement
+p18616
+sg17772
+V23/01/17, 18:14
+p18617
+sS'ClasseEnergie'
+p18618
+VC (de 91 à 150)
+p18619
+sa(dp18620
+S'LoyerMensuel'
+p18621
+F1050
+sS'Ville'
+p18622
+VParis 75018
+p18623
+sg17754
+I01
+sS'Description'
+p18624
+VBonjour, Nous louons \u0155 partir du 20 février 2017 un appartement meublé dans le 18°, au 32 rue du Simplon. Refait enti\u010drement \u0155 neuf il y a 4 ans, style loft, briques apparentes, parquet ch\u0119ne massif, murs blancs, poutres apparentes. - Entrée:  placard - Salle d'eau: douche, meuble/vasque, wc - Cuisine indépendante aménagée : vaisselles, plaques induction, four, lave-linge - Salon/salle \u0155 manger: canapé lit 2 places, table basse, TV écran plat, table \u0155 manger et 4 chaises, commode \u0155 tiroirs, luminaires (1 sur pied, 3 lampes) - Mezzanine: lit 2 places (et chauffeuse 1 place) 6° étage sans ascenseur Le loyer est de 1050 € TTC par mois, sans indexation annuelle. Nous avons besoin que vous ameniez s'il vous plaît un dossier complet afin de signer si besoin ensemble le bail \u0155 la suite de la visite (notamment un chéquier pour loyer et dépôt de garantie Visite possible jeudi 26 janvier \u0155 partir de 18h Pour une autre date, nous contacter avec plaisir! Mme Fleury
+p18625
+sg17757
+S'Appart 18deg T1 meuble Libre 20 fevrier'
+p18626
+sg17759
+I18
+sg17760
+I01
+sg17761
+S'e6518fce317bcffb1a56707a9df75faf'
+p18627
+sg17763
+S'1082757888'
+p18628
+sS'Surface'
+p18629
+F35
+sg17786
+V1
+sg17768
+S'http://www.leboncoin.fr/locations/1082757888.htm?ca=12_s'
+p18630
+sS'Ges'
+p18631
+VC (de 11 à 20)
+p18632
+sg17790
+I01
+sS'TypeDeBien'
+p18633
+VAppartement
+p18634
+sg17772
+V23/01/17, 17:58
+p18635
+sS'ClasseEnergie'
+p18636
+VC (de 91 à 150)
+p18637
+sa(dp18638
+S'LoyerMensuel'
+p18639
+F1090
+sS'Ville'
+p18640
+VParis 75011
+p18641
+sg17754
+I01
+sS'Description'
+p18642
+V2 pi\u010dces Paris 11e 34.38 m\u02db Beau 2 pi\u010dces \u0155 louer au 109 boulevard de Charonne 75011 PARIS en bail meublé au 4\u010dme étage sans ascenseur.. Disponible le 20 février 2017.. Composé d'une entrée, d'une chambre séparée avec rangements, d'une grande pi\u010dce \u0155 vivre avec coin cuisine aménagé et équipé, d'une salle de bains avec WC et machine \u0155 laver.. . Loyer 1030 euros + 60 euros = 1090 euros charges comprises.. Chauffage individuel électrique non compris dans les charges.. . Contact Lauren KENNEL : uniquement sur portable au . 07 81 41 57 40. . Référence annonce : E0JHTN Honoraires : 515 € Dépôt de garantie : 1030 € Montant des charges : 60 € / mois
+p18643
+sS'Reference'
+p18644
+Ve0jhtn
+p18645
+sg17757
+S'Appartement 2 pieces 34 m2'
+p18646
+sg17759
+I11
+sg17760
+I00
+sg17761
+S'9a26c9028e1ce763af77d222fca5f3c6'
+p18647
+sg17763
+S'1082928124'
+p18648
+sS'Surface'
+p18649
+F34
+sS'Ges'
+p18650
+VB (de 6 à 10)
+p18651
+sg17768
+S'http://www.leboncoin.fr/locations/1082928124.htm?ca=12_s'
+p18652
+sg17790
+I01
+sS'TypeDeBien'
+p18653
+VAppartement
+p18654
+sg17772
+V23/01/17, 17:07
+p18655
+sS'ClasseEnergie'
+p18656
+VE (de 231 à 330)
+p18657
+sg17786
+V2
+sa(dp18658
+S'LoyerMensuel'
+p18659
+F2100
+sS'Ville'
+p18660
+VParis 75011
+p18661
+sg17754
+I01
+sS'Description'
+p18662
+Vbel Appartement Meublé  PARIS 11 Bel appartement d'une surface de 69m\u02db, refait \u0155 neuf comprenant une cuisine  ouverte équipée et aménagée donnant sur un grand salon lumineux , une salle de bain et un WC séparé, une grand chambre avec dressing. . prestation : . chauffage collectif. eau collective. ascenseur . gardienne. immeuble sécurisé. \u0155 3 minutes \u0155 pied de Nation. . 1844 hors charges + 256 euros de charges. . . Référence annonce : E0O926 Dépôt de garantie : 3688 € Montant des charges : 256 € / mois
+p18663
+sS'Reference'
+p18664
+Ve0o926
+p18665
+sg17757
+S'Appartement 2 pieces 69 m2'
+p18666
+sg17759
+I11
+sg17760
+I00
+sg17761
+S'1d077a46f90d4ed3e53cd9201e2294ce'
+p18667
+sg17763
+S'1082928123'
+p18668
+sS'Surface'
+p18669
+F69
+sS'Ges'
+p18670
+VC (de 11 à 20)
+p18671
+sg17768
+S'http://www.leboncoin.fr/locations/1082928123.htm?ca=12_s'
+p18672
+sg17790
+I00
+sS'TypeDeBien'
+p18673
+VAppartement
+p18674
+sg17772
+V23/01/17, 14:59
+p18675
+sS'ClasseEnergie'
+p18676
+VC (de 91 à 150)
+p18677
+sg17786
+V2
+sa(dp18678
+S'LoyerMensuel'
+p18679
+F962
+sS'Ville'
+p18680
+VParis 75007
+p18681
+sg17754
+I01
+sS'Description'
+p18682
+VPour visiter merci de contacter Mr CLAVIER par  "SMS"     0635461714 en indiquant l'adresse de l'appartement. 83 rue Saint Dominique 75007, rue commerçante et pleine de charme, Nous vous proposons, au 4\u010dme étage d'un immeuble ancien, un studio d'une pi\u010dce, mesurant 27.05 m2. Ce dernier est composé d'une entrée, d'une pi\u010dce principale avec placards et coin cuisine, d'une salle d'eau avec WC. Le chauffage et l'eau chaude sont individuels électrique. Ce studio bénéficie également d'une cave. Libre le 11 février Référence annonce : 13564346 Honoraires : 405 € Dépôt de garantie : 912 € Montant des charges : 50 € / mois
+p18683
+sS'Reference'
+p18684
+V13564346
+p18685
+sg17757
+S'Appartement 1 piece 27 m2'
+p18686
+sg17759
+I7
+sg17760
+I00
+sg17761
+S'a3838b9f0c32d5b245abcaa9b76df6f0'
+p18687
+sg17763
+S'1082919478'
+p18688
+sS'Surface'
+p18689
+F27
+sS'Ges'
+p18690
+VE (de 36 à 55)
+p18691
+sg17768
+S'http://www.leboncoin.fr/locations/1082919478.htm?ca=12_s'
+p18692
+sg17790
+I00
+sS'TypeDeBien'
+p18693
+VAppartement
+p18694
+sg17772
+V23/01/17, 12:53
+p18695
+sS'ClasseEnergie'
+p18696
+VE (de 231 à 330)
+p18697
+sg17786
+V1
+sa(dp18698
+S'LoyerMensuel'
+p18699
+F2700
+sS'Ville'
+p18700
+VParis 75006
+p18701
+sg17754
+I01
+sS'Description'
+p18702
+VMagnifique T3 meublé saint Germain /saint Sulpice En plein cœur du 6\u010dme, dans une luxueuse copropriété, appartement type 3 de grand standing, situé au 4\u010dme étage avec ascenseur. Vous découvrirez un appartement meublé, enti\u010drement équipé avec prestations de qualité. Salon/séjour offrant le charme de l'ancien (moulures, parquet..), cuisine aménagée et équipée (four, lave linge, lave vaisselle...) salle d'eau avec douche \u0155 l'italienne, une chambres avec lits double, une pi\u010dce pouvant servir de salle \u0155 manger, ou de chambre d'ami avec un beau canapé convertible  et WC séparé. Porte blindée. Chauffage individuel électrique. Disponible mi-décembre 2016. Caution 2 mois de loyer HC. Honoraires agence 930€ TTC (Visites, dossier et rédaction de bail, Etat des lieux entrant). Merci de contacter le 06.64.73.87.54. . Référence annonce : 2546-3205053 Honoraires : 930 € Dépôt de garantie : 4940 € Montant des charges : 230 € / mois
+p18703
+sS'Reference'
+p18704
+V2546-3205053
+p18705
+sg17757
+S'Appartement 3 pieces 62 m2'
+p18706
+sg17759
+I6
+sg17760
+I00
+sg17761
+S'e5dddcde678de8c9f6c8bd92014fe0c5'
+p18707
+sg17763
+S'1082937045'
+p18708
+sS'Surface'
+p18709
+F62
+sS'Ges'
+p18710
+VC (de 11 à 20)
+p18711
+sg17768
+S'http://www.leboncoin.fr/locations/1082937045.htm?ca=12_s'
+p18712
+sg17790
+I01
+sS'TypeDeBien'
+p18713
+VAppartement
+p18714
+sg17772
+V23/01/17, 11:02
+p18715
+sS'ClasseEnergie'
+p18716
+VD (de 151 à 230)
+p18717
+sg17786
+V3
+sa(dp18718
+S'LoyerMensuel'
+p18719
+F840
+sS'Ville'
+p18720
+VParis 75018
+p18721
+sS'ChargesComprises'
+p18722
+I01
+sS'Description'
+p18723
+VParticulier loue 2 pi\u010dces meublé de 27m2 bien agencé et en bon état situé au 3\u010dme étage dans le quartier de la halle Pajol - La chapelle, rue Jacques Kablé (tr\u010ds calme). Métro La chapelle-gare du nord, Marx Dormoy, Stalingrad. Il est composé d'un: - séjour: canapé convertible, table basse - cuisine neuve: plaques inductions, frigidaire (neuf), micro-onde, four, table, chaises, vaisselle, couverts, casserole, po\u0119le, plats - chambre: lit 2 places, commode - salle de bain avec baignoire et WC (neuf) - local sur le palier : Machine \u0155 laver, balai, aspirateur (neuf) -cave de 3-4 m\u02db au sous-sol sain -Possibilité de laisser son vélo dans un endroit sécurisé au RDC Loyer: 840€ charges comprises Chauffage gaz Disponible \u0155 partir du 5 février Dossier et personnes sérieuses demandés. Contact par mail
+p18724
+sS'Pieces'
+p18725
+V2
+sS'title'
+p18726
+S'Meuble 2 pieces 27m2 Pajol-La Chapelle'
+p18727
+sS'Arrondissement'
+p18728
+I18
+sS'Problematic'
+p18729
+I00
+sS'md5sum'
+p18730
+S'491fd8f1fd5af03df81f646affa822c1'
+p18731
+sS'pid'
+p18732
+S'1082962421'
+p18733
+sS'Surface'
+p18734
+F27
+sS'Ges'
+p18735
+VD (de 21 à 35)
+p18736
+sS'url'
+p18737
+S'http://www.leboncoin.fr/locations/1082962421.htm?ca=12_s'
+p18738
+sS'Meuble'
+p18739
+I01
+sS'TypeDeBien'
+p18740
+VAppartement
+p18741
+sS'insert_time'
+p18742
+V24/01/17, 09:11
+p18743
+sS'ClasseEnergie'
+p18744
+VC (de 91 à 150)
+p18745
+sa(dp18746
+S'LoyerMensuel'
+p18747
+F1250
+sS'ChargesComprises'
+p18748
+I01
+sS'pid'
+p18749
+S'1082967163'
+p18750
+sS'ClasseEnergie'
+p18751
+VC (de 91 à 150)
+p18752
+sS'Ges'
+p18753
+VC (de 11 à 20)
+p18754
+sS'Ville'
+p18755
+VParis 75015
+p18756
+sS'Description'
+p18757
+VLocation 2 Pieces meublées a Boulogne(92) enti\u010drement équipé et rénové. Sur 2 niveaux. Rue Yves Kermen. Pont de Billancourt. Site: LMKB.FR
+p18758
+sS'title'
+p18759
+S'2 Pieces meublees'
+p18760
+sS'Arrondissement'
+p18761
+I15
+sS'Problematic'
+p18762
+I00
+sS'md5sum'
+p18763
+S'b2bfea26e70928e07f46107790948ceb'
+p18764
+sS'Surface'
+p18765
+F50
+sS'Pieces'
+p18766
+V2
+sS'url'
+p18767
+S'http://www.leboncoin.fr/locations/1082967163.htm?ca=12_s'
+p18768
+sS'Meuble'
+p18769
+I01
+sS'TypeDeBien'
+p18770
+VAppartement
+p18771
+sS'insert_time'
+p18772
+V24/01/17, 09:27
+p18773
+sa(dp18774
+S'LoyerMensuel'
+p18775
+F390
+sg18748
+I01
+sg18749
+S'1082965506'
+p18776
+sS'ClasseEnergie'
+p18777
+VF (de 331 à 450)
+p18778
+sS'Ges'
+p18779
+VF (de 56 à 80)
+p18780
+sS'Ville'
+p18781
+VParis 75008
+p18782
+sS'Description'
+p18783
+VParis centre, 2 pi\u010dces tr\u010ds propre. Meublé, équipé. Proche des Champs Elysées et métros,  quartier calme.  Matelas neuf. libre du 17 au 24 / 02 pour 390 € et du 4 au 14 /03 pour 550 € Pour plus de questions,  me contactez.
+p18784
+sg18759
+S'Sous loc 2 pieces du 17 au 24/02 et du 4 au 14/03'
+p18785
+sg18761
+I8
+sg18762
+I00
+sg18763
+S'7470fc0d3bd6b0442bd23865d2e3b9c3'
+p18786
+sS'Surface'
+p18787
+F28
+sg18766
+V2
+sg18767
+S'http://www.leboncoin.fr/locations/1082965506.htm?ca=12_s'
+p18788
+sg18769
+I01
+sS'TypeDeBien'
+p18789
+VAppartement
+p18790
+sg18772
+V24/01/17, 09:22
+p18791
 sa.
