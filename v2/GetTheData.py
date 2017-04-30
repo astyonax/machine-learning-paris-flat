@@ -337,30 +337,34 @@ from datetime import datetime
 df = pd.DataFrame(flats)
 df.columns
 
+months =  unidecode.unidecode(u"""
+jan,fév,mar,avr,mai,jun,jul,aoû,sep,oct,nov,déc
+jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec
+""").split()
+months = zip(*[j.split(',') for j in months])
 
-# In[12]:
 
 def correct_instime_format(j):
-    timefmt1 = '%d %b, %H:%M' # 25 oct, 11:59
+    timefmt1 = '%d %b, %H:%M' # 25 oct, 11:59 # but this is locaized in english
     timefmt2 = '%d/%m/%y, %H:%M' # 26/10/16, 19:17
+    fmts = [timefmt1,timefmt2]
     outfmt   = '%d/%m/%y %H:%M'
 
     j = unidecode.unidecode(j)
-    try:
-        dt = datetime.strptime(j, timefmt1)
-        dt = dt.replace(year=datetime.today().year)
+    for mon_fr,mon_en in months:
+        j = j.replace(mon_fr,mon_en)
 
-    except ValueError:
-
+    for fmt in fmts:
         try:
-            dt = datetime.strptime(j, timefmt2)
-        except ValueError:
-
-            dt = datetime.strptime(j,outfmt)
+            dt = datetime.strptime(j, fmt)
+            dt = dt.replace(year=datetime.today().year)
+            break
+        except ValueError:pass
 
     return dt.strftime(outfmt)
+
 df['insert_time']=df['insert_time'].apply(correct_instime_format)
-#######################################################################
+
 def safe_conv_pos_int(x):
     try:
         return int(x)
