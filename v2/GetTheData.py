@@ -1,11 +1,24 @@
-
 # coding: utf-8
-
-# # Web scraping for flats
+# Machine Learning Paris Flats
+# Copyright (C) 2017 Guglielmo Saggiorato <astyonax@gmail.com>
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
 #
-# Get some lists from ``leboncoin.fr``
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-# In[1]:
+
+# This code is
+# quasi-auto converted from the ipython notebook
+# check this out for the whole project:
+# https://github.com/astyonax/machine-learning-paris-flat/tree/master/v2
 
 import hashlib
 import urllib
@@ -15,19 +28,27 @@ from string import atof,atoi
 from pprint import pprint
 from bs4 import BeautifulSoup as BS
 from datetime import datetime, timedelta
+from collections import defaultdict as DDict
+
+import time
+from math import log
+from random import random
+import cPickle as pkl
+import time
+import os
+
+# import random
+import pandas as pd
+from datetime import datetime
 
 base_url='https://www.leboncoin.fr/locations/offres/ile_de_france/paris/'
-
 urlget = urllib.urlopen
-
 
 # ## Downlad page number
 #
 # The default search criteria are for flats with size > 30 sqm, in Paris.
 # The function returns the `Beautifulsoup`-ped HTML of a given page.
 # Each page contains a list of flats.
-
-# In[3]:
 
 def get_page_from_url(pgnr,base_url):
     CL_paris_apa_html="{0:s}?o={1:d}&sqs=2&ret=1&ret=2&ret=5".format(base_url,pgnr)
@@ -47,10 +68,7 @@ human_page=get_page_from_url(2,base_url)
 
 
 # ## List flats urls from page
-#
 # From each page given by the previous function, we record the list of flats, their publication date, and pid.
-
-# In[4]:
 
 def get_listings_from_html(human_page,base_url):
     today = datetime.now()
@@ -79,26 +97,10 @@ def get_listings_from_html(human_page,base_url):
 
     return results
 apas=get_listings_from_html(human_page,base_url)
-# apas[1]
-
-
-# In[5]:
-
-
-# for jix in xrange(len(flats)):
-#     keys=['insert_time','pid','url']
-#     fl_ = {j:flats[jix] for j in keys}
-#     flats[jix].update({'md5sum':hashlib.md5(str(fl)).hexdigest()})
-
-# print flats[-1]
-
 
 # ## From flat url to flat record
-#
 # We have the urls of all flats listed in CL.. well, we have the functions to get the urls, the actual work will be done at the end.
 # Finally, we can get the informations out of each flat individual page. This is really boring, but needed. The results is a list of features for each flat. These features will need further refinement, that I will do in future notebooks
-
-# In[6]:
 
 def select2text(din):
     basic_string = [' '.join(list(j.stripped_strings)) for j in din]
@@ -117,7 +119,7 @@ def make_col_name(nm):
     return nm.strip()
 
 # functions to process the raw features record
-from collections import defaultdict as DDict
+
 def default():
     return lambda out:out
 
@@ -191,21 +193,11 @@ def apafeatures(apainfo):
 
     out.update(apainfo)
     return out
-# print apas[5]
-# apafeatures(apas[5])
-
 
 # ## A memoizing page getter
 # As the docstring says: `sort of memoizing for apafeatures, specialized for the apas tuple`.
 #
 # This class saves its cache as pickle
-
-# In[7]:
-
-import cPickle as pkl
-# from datetime import datetime as DT
-import os
-import time
 
 class get_features_cache(object):
     """
@@ -261,8 +253,6 @@ class get_features_cache(object):
 # This is class that behaves as a function (see the `__call__`) that waits a random time before retrieving the requested URL.
 # The waiting time is sampled from a Poisson distribution.
 
-# In[8]:
-
 # ----------------------------------------------------------
 #            Poissonian waiting time in the urlget function
 class urlgetter(object):
@@ -270,27 +260,19 @@ class urlgetter(object):
         self.mean=waiting_time
 
     def __call__(self,url):
-        import time
+
         #waiting time [s]
         wt = self.poisson()
         time.sleep(wt)
         return urllib.urlopen(url)
 
     def poisson(self):
-        from math import log
-        from random import random
         return -log(1.0 - random()) / self.mean
 
 
 # ## Put all togheter
-#
 # The culprit of all these efforts, the loop that rules them all, where the  work is  truly done.
-
-# In[9]:
-
-import random
 pages=range(1,7)
-# random.shuffle(pages)
 
 apagetter = get_features_cache(fname='data/LBClocations.pkl',)
 print 'The {2:s} the db {0:s} contains {1:d} locations'.format(apagetter.fname,len(apagetter),apagetter.upd_date())
@@ -321,19 +303,12 @@ print 'last downloaded record:'
 print 'title:',last['data']['title']
 print 'insert time:',last['data']['insert_time']
 
-
-# In[10]:
-
 flats = apagetter.db
 len(flats)
 
 
 # ## to the pandas
 
-# In[11]:
-
-import pandas as pd
-from datetime import datetime
 df = pd.DataFrame(flats)
 df.columns
 
@@ -383,22 +358,6 @@ df=df[df['Pieces']==2]
 # remove if cheaper than 500 (it's crap) and bigger than 70
 df=df[(df.LoyerMensuel>500) & (df.Surface<70)]
 
-
-# ## work out some new columns
-# - **Binning price by 250€**
-# - **Binnig surface by 5 m<sup>2</sup>**
-
-# In[15]:
-
-# i = [10,15,20,25,30,35,40]
-# o = np.digitize(i,bins=np.arange(0,130,5))
-# print 'Surface binning legend'
-# for p,q in zip(i,o):
-#     print p,'sqm -> #',q
-
-
-# In[16]:
-
 #######################################################################
 df['price_bin']=np.digitize(df.LoyerMensuel,bins=np.arange(0,21*250,250))
 df['sqm_bin'] = np.digitize(df.Surface,bins=np.arange(0,130,5))
@@ -432,18 +391,12 @@ df['Arrondissement']=df['Arrondissement'].apply(sistema_arrondissement)
 df['Meuble_int']=df['Meuble'].apply(safe_conv_pos_int)
 #######################################################################
 
-
-# In[17]:
-
 print "*"*100
 print "{0:d} flats recorded with 2 pieces, of size < 70sqm, and price >500eu".format(df.shape[0])
 print "*"*100
 
 
-# ## Save the data for later
-
-# In[18]:
-
+# The deliverable -- just save it
 print 'Saving'
 df.to_pickle("data/lbc_pandas.pkl")
 print 'bye'
