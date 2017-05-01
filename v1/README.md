@@ -2,9 +2,9 @@
 # Machine Learning Paris Flats
 
 I just moved to Paris from Germany, and I find the flats-renting market quite different and more complicate.
-That's not only because of the prices. Nonetheless, in this series of notebooks I want to get a quantitative view of the situation.
+That's not only because of the prices. Thus, in this series of notebooks I want to get a quantitative view of the situation.
 
-The idea is to scrap some data from websites to see the obvious correlations, like price _vs_ district (arrondissement, here), the non-trivial correlated features, e.g. a non-linear size _vs_ price/sqm relation, or even better, if there are some conditions, like the flat floor, or the availabily of laundry or parking, that do not correlate strongly with the price/size/district.
+The idea is to scrap some data from websites to measure  the obvious:  eg. price _vs_ district; and the less obvious: e.g. a non-linear size _vs_ price/sqm relation, or lack of relations wrt cases in which one would expect a correlation.
 
 This turns out to be also a good chance to learn some new libraries I wanted to play with since a while:
 * `Beautifulsoup`
