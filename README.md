@@ -8,20 +8,20 @@ The idea is to scrap some data from websites to measure  the obvious:  eg. price
 
 
 **TL;DR:** 
+
 [the notebook on *nbviewer*](https://nbviewer.jupyter.org/github/astyonax/machine-learning-paris-flat/blob/master/v2/LBC-simple.ipynb)
+
 [the *jupyter notebook* as web-page](http://htmlpreview.github.io/?https://github.com/astyonax/machine-learning-paris-flat/blob/master/v2/rendered/LBC-simple.html).
 
 
 ## Summary of analysis
 
-The following data is for  fournished, 2 rooms flats, with minumu size of 30m^2^, within Paris only.
+The following data is for  fournished, 2 rooms flats, with minumu size of 30m<sup>2</sup>, within Paris only.
 
 ### Flats distribution per arrondissement and per size
 
-
-
 ![](v2/plots/flats_distribution.png) 
-*Figure 1:  Histogram of 2 rooms flats per price and per arrondissement (left) and per binned size and per arrondissement (right). Size binning = 5m^2^. Minimum size capped at 30m<sup>2</sup>.*
+*Figure 1:  Histogram of 2 rooms flats per price and per arrondissement (left) and per binned size and per arrondissement (right). Size binning = 5m<sup>2</sup>. Minimum size capped at 30m<sup>2</sup>.*
 
 ### Price distributions
 ![ ](v2/plots/price_breakdown.png  "Price Breakdown #1/3")
@@ -29,6 +29,7 @@ The following data is for  fournished, 2 rooms flats, with minumu size of 30m^2^
 
 ![ ](v2/plots/price_breakdown_2.png  "Price Breakdown #2/3")
 *Figure 3: Visualization of the price per square meter versus arrondissement, flat size. Red dots: unfournished. Filled dots: fournished.*
+
 
 ![ ](v2/plots/price_breakdown_3.png  "Price Breakdown #3/3")
 *Figure 4: Energy efficiency of Paris flats. There is no need to comment.*
@@ -49,6 +50,7 @@ Using the rule that a flat can't be more expensive than 1/3 of the net total inc
 
 ![ ](v2/plots/sustainability.png  "Sustainability")
 *Figure 7: (Right) Price distribution of all flats of 2 rooms (blue), of flats with size  between 35m<sup>2</sup> and 50m<sup>2</sup> -- (Left) The average income for a couple (Green), and of per person (assuming 2 persons in the flat, and equal income). White lines correspond to the average of the distribution.*
+
 
 
 ---
