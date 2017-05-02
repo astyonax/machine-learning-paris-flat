@@ -9,19 +9,20 @@ The idea is to scrap some data from websites to measure  the obvious:  eg. price
 
 **TL;DR:** 
 [the notebook on *nbviewer*](https://nbviewer.jupyter.org/github/astyonax/machine-learning-paris-flat/blob/master/v2/LBC-simple.ipynb)
+
 [the *jupyter notebook* as web-page](http://htmlpreview.github.io/?https://github.com/astyonax/machine-learning-paris-flat/blob/master/v2/rendered/LBC-simple.html).
 
 
 ## Summary of analysis
 
-The following data is for  fournished, 2 rooms flats, with minumu size of 30m^2^, within Paris only.
+The following data is for  fournished, 2 rooms flats, with minumu size of 30m<sup>2</sup>, within Paris only.
 
 ### Flats distribution per arrondissement and per size
 
 
 
 ![](v2/plots/flats_distribution.png) 
-*Figure 1:  Histogram of 2 rooms flats per price and per arrondissement (left) and per binned size and per arrondissement (right). Size binning = 5m^2^. Minimum size capped at 30m<sup>2</sup>.*
+*Figure 1:  Histogram of 2 rooms flats per price and per arrondissement (left) and per binned size and per arrondissement (right). Size binning = 5m<sup>2</sup>. Minimum size capped at 30m<sup>2</sup>.*
 
 ### Price distributions
 ![ ](v2/plots/price_breakdown.png  "Price Breakdown #1/3")
