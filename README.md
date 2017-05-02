@@ -8,6 +8,7 @@ The idea is to scrap some data from websites to measure  the obvious:  eg. price
 
 
 **TL;DR:** 
+
 [the notebook on *nbviewer*](https://nbviewer.jupyter.org/github/astyonax/machine-learning-paris-flat/blob/master/v2/LBC-simple.ipynb)
 
 [the *jupyter notebook* as web-page](http://htmlpreview.github.io/?https://github.com/astyonax/machine-learning-paris-flat/blob/master/v2/rendered/LBC-simple.html).
@@ -30,6 +31,8 @@ The following data is for  fournished, 2 rooms flats, with minumu size of 30m<su
 
 ![ ](v2/plots/price_breakdown_2.png  "Price Breakdown #2/3")
 *Figure 3: Visualization of the price per square meter versus arrondissement, flat size. Red dots: unfournished. Filled dots: fournished.*
+
+
 ---
 **To be continued...**
 
