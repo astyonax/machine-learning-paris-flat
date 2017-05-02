@@ -8,7 +8,7 @@ The current status is summarized [here](http://htmlpreview.github.io/?https://gi
 2. data-cleaning and analysis code
 3. plots of some results
 
-The map can be visualized only running the *ipython ntoebook*: [LBC--simple](LBC-simple.ipynb)
+The map can be visualized only running the *ipython ntoebook*: [LBC-simple](https://nbviewer.jupyter.org/github/astyonax/machine-learning-paris-flat/blob/master/v2/LBC-simple.ipynb)
 
 # Sources
 [Le Bon Coin](leboncoin.fr)

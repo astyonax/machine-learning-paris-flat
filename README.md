@@ -18,16 +18,19 @@ The following data is for  fournished, 2 rooms flats, with minumu size of 30m<su
 
 
 
-![](/home/astyonax/Projects/machine-learning-paris-flat/v2/plots/flats_distribution.png) 
+![](v2/plots/flats_distribution.png) 
 *Figure 1:  Histogram of 2 rooms flats per price and per arrondissement (left) and per binned size and per arrondissement (right). Size binning = 5m<sup>2</sup>. Minimum size capped at 30m<sup>2</sup>.*
 
 ### Price distributions
-![ ](/home/astyonax/Projects/machine-learning-paris-flat/v2/plots/price_breakdown.png  "Price Breakdown #1/3")
+![ ](v2/plots/price_breakdown.png  "Price Breakdown #1/3")
 *Figure 2:  Two visualizations of the price per square meter (€/m<sup>2</sup>) versus flat sizes, averaged over arrondissement. Blue: unfournished, Green: fournished. **Note**: The price per square meter obviously decreases with flat size, however the noise appears to be quite important, probably meaning that we are missing some important variables.*
 
-![ ](/home/astyonax/Projects/machine-learning-paris-flat/v2/plots/price_breakdown_2.png  "Price Breakdown #2/3")
+![ ](v2/plots/price_breakdown_2.png  "Price Breakdown #2/3")
 *Figure 3: Visualization of the price per square meter versus arrondissement, flat size. Red dots: unfournished. Filled dots: fournished.*
+---
+**To be continued...**
 
+--- 
 ## [V 2 -- the newest](v2/)
 
 **TL;DR:** [the *jupyter notebook* as web-page](http://htmlpreview.github.io/?https://github.com/astyonax/machine-learning-paris-flat/blob/master/v2/rendered/LBC-simple.html).
