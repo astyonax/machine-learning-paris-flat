@@ -13,20 +13,25 @@ The following data is for  furnished, 2 rooms flats, with minimum size of 25m<su
 ### Flats distribution per arrondissement and per size
 
 ![](v2/plots/flats_distribution.png) 
+
 *Figure 1:  Histogram of 2 rooms flats per price and per arrondissement (left) and per binned size and per arrondissement (right).*
 
 ### Price distributions
 ![ ](v2/plots/price_breakdown.png  "Price Breakdown #1/3")
+
 *Figure 2:  Two visualizations of the price per square meter (€/m<sup>2</sup>) versus flat sizes, averaged over arrondissement. Blue: unfournished, Green: fournished. 
 
 ![ ](v2/plots/price_breakdown_2.png  "Price Breakdown #2/3")
+
 *Figure 3: Visualization of the price per square meter versus arrondissement and flat size. Red dots: unfurnished. Filled dots: furnished.*
 
 
 ![ ](v2/plots/price_breakdown_3.png  "Price Breakdown #3/3")
+
 *Figure 4: Energy efficiency of Paris flats. Same color-coding as previous plot. There is no need to comment.*
 
 ![ ](v2/plots/PCA.png  "Relevant features from PCA")
+
 *Figure 6: PCA to identify some important features. There is no attempt to do a more robust assessment with a kernel PCA (I don't need it now). Note, however, that the 3 modes shown represent about 97% of the data, so they are enough (in this case)*
 
 So, Price correlates with size, which in turns weakly correlates with the arrondissement. One would expect also that the energy level correlates with the price as a proxy for the flat quality but it's not the case. 
@@ -38,6 +43,7 @@ How much does a couple has to earn to afford to live in Paris?
 Using the rule that a flat can't be more expensive than 1/3 of the net total income of the inhabitants, the average needed income per person per month is about 1900 €/monnth, assuming that the flat is inhabited by 2 persons with equal income.
 
 ![ ](v2/plots/sustainability.png  "Sustainability")
+
 *Figure 7: (Left) Distribution of average income for a couple (green), and per person (assuming 2 persons in the flat, and equal income) (blue). -- (Right) Price distribution of all flats of 2 rooms (blue), and of flats with size  between 35m<sup>2</sup> and 50m<sup>2</sup> (green) -- White lines correspond to the average of the distribution. Binning: 100€.*
 
 
